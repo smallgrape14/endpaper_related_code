@@ -1,0 +1,76 @@
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            node9
+  Device name:           mlx5_2
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 41692
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           node9
+  Local device:         mlx5_0
+  Local port:           1
+  CPCs attempted:       udcm
+--------------------------------------------------------------------------
+IOR-4.1.0+dev: MPI Coordinated Test of Parallel I/O
+Began               : Tue Apr 15 20:16:15 2025
+Command line        : ior -w -r -t 1m -b 1g -s 1 -o /mnt/beegfs/ior_test_debug/ior_testfile_NtoN --posix.odirect -C -e -k -g -v
+Machine             : Linux node9
+TestID              : 0
+StartTime           : Tue Apr 15 20:16:15 2025
+Path                : /mnt/beegfs/ior_test_debug/ior_testfile_NtoN
+FS                  : 915.9 GiB   Used FS: 19.8%   Inodes: 0.0 Mi   Used Inodes: -nan%
+
+Options: 
+api                 : POSIX
+apiVersion          : 
+test filename       : /mnt/beegfs/ior_test_debug/ior_testfile_NtoN
+access              : single-shared-file
+type                : independent
+segments            : 1
+ordering in a file  : sequential
+ordering inter file : constant task offset
+task offset         : 1
+nodes               : 1
+tasks               : 18
+clients per node    : 18
+memoryBuffer        : CPU
+dataAccess          : CPU
+GPUDirect           : 0
+repetitions         : 1
+xfersize            : 1 MiB
+blocksize           : 1 GiB
+aggregate filesize  : 18 GiB
+verbose             : 1
+
+Results: 
+WARNING: The file "/mnt/beegfs/ior_test_debug/ior_testfile_NtoN" exists already and will be deleted
+
+access    bw(MiB/s)  IOPS       Latency(s)  block(KiB) xfer(KiB)  open(s)    wr/rd(s)   close(s)   total(s)   iter
+------    ---------  ----       ----------  ---------- ---------  --------   --------   --------   --------   ----
+[node9:107138] 35 more processes have sent help message help-mpi-btl-openib.txt / no device params found
+[node9:107138] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[node9:107138] 53 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port
+write     524.22     524.52     0.034251    1048576    1024.00    0.019100   35.14      0.001373   35.16      0   
+read      5198       5218       0.003415    1048576    1024.00    0.011207   3.53       0.001632   3.55       0   
+Max Write: 524.22 MiB/sec (549.68 MB/sec)
+Max Read:  5198.45 MiB/sec (5450.97 MB/sec)
+
+Summary of all tests:
+Operation   Max(MiB)   Min(MiB)  Mean(MiB)     StdDev   Max(OPs)   Min(OPs)  Mean(OPs)     StdDev    Mean(s) Stonewall(s) Stonewall(MiB) Test# #Tasks tPN reps fPP reord reordoff reordrand seed segcnt   blksiz    xsize aggs(MiB)   API RefNum
+write         524.22     524.22     524.22       0.00     524.22     524.22     524.22       0.00   35.16108         NA            NA     0     18  18    1   0     1        1         0    0      1 1073741824  1048576   18432.0 POSIX      0
+read         5198.45    5198.45    5198.45       0.00    5198.45    5198.45    5198.45       0.00    3.54567         NA            NA     0     18  18    1   0     1        1         0    0      1 1073741824  1048576   18432.0 POSIX      0
+Finished            : Tue Apr 15 20:16:54 2025

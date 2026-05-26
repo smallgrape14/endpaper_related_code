@@ -1,0 +1,2 @@
+DirPath,总经过时间(秒),readdir总时间(s),stat总时间(s),open总时间(秒),read总时间(秒)
+/mnt/beegfs/test_dir/train/n02415577,4.926071,0.001045,0.667263,1.290864,1.555465

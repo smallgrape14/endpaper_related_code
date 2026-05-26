@@ -1,0 +1,21 @@
+Directory,Max Workers,Total Time(s)
+/mnt/beegfs/test_dir_4KB_10428,1,16.220167637
+/mnt/beegfs/test_dir_4KB_10428,2,6.629179001
+/mnt/beegfs/test_dir_4KB_10428,4,2.936778784
+/mnt/beegfs/test_dir_4KB_10428,8,1.187754393
+/mnt/beegfs/test_dir_4KB_10428,16,0.910916805
+/mnt/beegfs/test_dir_4KB_10428,32,0.881368637
+/mnt/beegfs/test_dir_4KB_10428,64,1.350707054
+/mnt/beegfs/test_dir_4KB_10428,128,0.971649647
+/mnt/beegfs/test_dir_4KB_10428,256,1.092213154
+/mnt/beegfs/test_dir_4KB_10428,512,1.501406431
+/mnt/beegfs/test_dir_4KB_10428,1024,1.573672056
+/mnt/beegfs/test_dir_4KB_10428,2048,1.600885868
+/mnt/beegfs/test_dir_4KB_10428,4096,1.631318569
+/mnt/beegfs/test_dir_4KB_10428,8192,2.037061930
+/mnt/beegfs/test_dir_4KB_10428,16384,1.614769220
+/mnt/beegfs/test_dir_4KB_10428,32768,1.653113604
+/mnt/beegfs/test_dir_4KB_10428,65536,1.628401756
+/mnt/beegfs/test_dir_4KB_10428,131072,1.644597530
+/mnt/beegfs/test_dir_4KB_10428,262144,1.679540634
+/mnt/beegfs/test_dir_4KB_10428,524288,1.566461563

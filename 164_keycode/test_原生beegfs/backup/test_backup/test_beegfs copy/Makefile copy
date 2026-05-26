@@ -1,0 +1,42 @@
+# 编译器配置
+CC = gcc
+CFLAGS = -Wall -Wextra -g -I.
+LDFLAGS = 
+LDLIBS = -lrt  # 链接实时库（用于gettimeofday）
+
+# 目标文件配置
+TARGET = test
+SRC = test.c
+OBJ = $(SRC:.c=.o)
+
+# 默认构建目标
+all: $(TARGET)
+
+# 主程序构建规则
+$(TARGET): $(OBJ)
+	$(CC) $(LDFLAGS) -o $@ $^ $(LDLIBS)
+
+# 通用编译规则（自动处理头文件依赖）
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# 清理构建产物
+clean:
+	rm -f $(TARGET) $(OBJ) *.csv
+
+# 安装到系统路径
+install: $(TARGET)
+	cp $(TARGET) /usr/local/bin/
+
+# 卸载程序
+uninstall:
+	rm -f /usr/local/bin/$(TARGET)
+
+# 生成头文件依赖（参考网页[4][6]）
+deps:
+	$(CC) -MM $(SRC) > .depend
+
+# 包含依赖关系
+-include .depend
+
+.PHONY: all clean install uninstall

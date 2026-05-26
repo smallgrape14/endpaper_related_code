@@ -1,0 +1,77 @@
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            node9
+  Device name:           mlx5_2
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 41692
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           node9
+  Local device:         mlx5_0
+  Local port:           1
+  CPCs attempted:       udcm
+--------------------------------------------------------------------------
+IOR-4.1.0+dev: MPI Coordinated Test of Parallel I/O
+Began               : Tue Apr 15 20:05:43 2025
+Command line        : ior -w -r -t 8m -b 1g -s 1 -o /mnt/beegfs/ior_test_debug/ior_testfile_NtoN --posix.odirect -C -F -e -k -g -v
+Machine             : Linux node9
+TestID              : 0
+StartTime           : Tue Apr 15 20:05:43 2025
+Path                : /mnt/beegfs/ior_test_debug/ior_testfile_NtoN.00000000
+FS                  : 915.9 GiB   Used FS: 17.2%   Inodes: 0.0 Mi   Used Inodes: -nan%
+
+Options: 
+api                 : POSIX
+apiVersion          : 
+test filename       : /mnt/beegfs/ior_test_debug/ior_testfile_NtoN
+access              : file-per-process
+type                : independent
+segments            : 1
+ordering in a file  : sequential
+ordering inter file : constant task offset
+task offset         : 1
+nodes               : 1
+tasks               : 2
+clients per node    : 2
+memoryBuffer        : CPU
+dataAccess          : CPU
+GPUDirect           : 0
+repetitions         : 1
+xfersize            : 8 MiB
+blocksize           : 1 GiB
+aggregate filesize  : 2 GiB
+verbose             : 1
+
+Results: 
+WARNING: The file "/mnt/beegfs/ior_test_debug/ior_testfile_NtoN.00000001" exists already and will be deleted
+WARNING: The file "/mnt/beegfs/ior_test_debug/ior_testfile_NtoN.00000000" exists already and will be deleted
+
+access    bw(MiB/s)  IOPS       Latency(s)  block(KiB) xfer(KiB)  open(s)    wr/rd(s)   close(s)   total(s)   iter
+------    ---------  ----       ----------  ---------- ---------  --------   --------   --------   --------   ----
+write     1140.83    142.96     0.013943    1048576    8192       0.002667   1.79       0.001739   1.80       0   
+read      1020.68    127.77     0.015654    1048576    8192       0.001235   2.00       0.001458   2.01       0   
+Max Write: 1140.83 MiB/sec (1196.25 MB/sec)
+Max Read:  1020.68 MiB/sec (1070.26 MB/sec)
+
+Summary of all tests:
+Operation   Max(MiB)   Min(MiB)  Mean(MiB)     StdDev   Max(OPs)   Min(OPs)  Mean(OPs)     StdDev    Mean(s) Stonewall(s) Stonewall(MiB) Test# #Tasks tPN reps fPP reord reordoff reordrand seed segcnt   blksiz    xsize aggs(MiB)   API RefNum
+write        1140.83    1140.83    1140.83       0.00     142.60     142.60     142.60       0.00    1.79519         NA            NA     0      2   2    1   1     1        1         0    0      1 1073741824  8388608    2048.0 POSIX      0
+read         1020.68    1020.68    1020.68       0.00     127.58     127.58     127.58       0.00    2.00652         NA            NA     0      2   2    1   1     1        1         0    0      1 1073741824  8388608    2048.0 POSIX      0
+Finished            : Tue Apr 15 20:05:47 2025
+[node9:104524] 3 more processes have sent help message help-mpi-btl-openib.txt / no device params found
+[node9:104524] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+[node9:104524] 5 more processes have sent help message help-mpi-btl-openib-cpc-base.txt / no cpcs for port

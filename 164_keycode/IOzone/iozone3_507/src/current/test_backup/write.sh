@@ -1,0 +1,2 @@
+#!/bin/sh
+./iozone -t 10 -s 1G -r 4k -w -F /mnt/beegfs/iozone_test/file1 /mnt/beegfs/iozone_test/file2 /mnt/beegfs/iozone_test/file3 /mnt/beegfs/iozone_test/file4 /mnt/beegfs/iozone_test/file5 /mnt/beegfs/iozone_test/file6 /mnt/beegfs/iozone_test/file7 /mnt/beegfs/iozone_test/file8 /mnt/beegfs/iozone_test/file9 /mnt/beegfs/iozone_test/file10 -Rb iozone_results.xls
