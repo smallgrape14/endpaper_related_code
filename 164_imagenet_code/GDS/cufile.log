@@ -1,0 +1,32 @@
+ 28-07-2025 15:45:21:699 [pid=3310971 tid=3310971] ERROR  cufio:221 cuFileHandleRegister error, win32 file handle type not supported
+ 28-07-2025 15:45:21:699 [pid=3310971 tid=3310971] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 28-07-2025 15:47:53:991 [pid=3311260 tid=3311260] ERROR  cufio:221 cuFileHandleRegister error, win32 file handle type not supported
+ 28-07-2025 15:47:53:991 [pid=3311260 tid=3311260] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 29-07-2025 12:00:57:213 [pid=3417058 tid=3417058] ERROR  cufio:221 cuFileHandleRegister error, win32 file handle type not supported
+ 29-07-2025 12:00:57:213 [pid=3417058 tid=3417058] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 29-07-2025 12:04:00:962 [pid=3417461 tid=3417461] ERROR  cufio:221 cuFileHandleRegister error, win32 file handle type not supported
+ 29-07-2025 12:04:00:962 [pid=3417461 tid=3417461] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 29-07-2025 12:06:17:376 [pid=3417950 tid=3417950] ERROR  cufio:221 cuFileHandleRegister error, win32 file handle type not supported
+ 29-07-2025 12:06:17:376 [pid=3417950 tid=3417950] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 29-07-2025 18:03:31:196 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:199 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:202 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:205 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:208 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:210 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:213 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:216 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:218 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:220 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:223 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:226 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:228 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:231 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:233 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 29-07-2025 18:03:31:236 [pid=3485835 tid=3485939] ERROR  0:1140 cuMemcpyPeer failed with  error num:  710 error:  CUDA_ERROR_ASSERT
+ 30-07-2025 16:06:13:533 [pid=3766585 tid=3766585] ERROR  cufio:221 cuFileHandleRegister error, win32 file handle type not supported
+ 30-07-2025 16:06:13:533 [pid=3766585 tid=3766585] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 30-07-2025 16:06:36:307 [pid=3766740 tid=3766740] ERROR  cufio:221 cuFileHandleRegister error, win32 file handle type not supported
+ 30-07-2025 16:06:36:307 [pid=3766740 tid=3766740] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 30-07-2025 16:07:21:745 [pid=3766920 tid=3766920] ERROR  cufio:221 cuFileHandleRegister error, win32 file handle type not supported
+ 30-07-2025 16:07:21:745 [pid=3766920 tid=3766920] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file

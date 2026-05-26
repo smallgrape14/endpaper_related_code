@@ -1,0 +1,803 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1200" height="600"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+    .func_g:hover { stroke:black; stroke-width:0.5; cursor:pointer; }
+</style>
+<svg class="func_g" x="0.0" y="264" width="1198.99083947507" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 100.00% (2 2 0.008759557000000001 24.665603427)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="0.5392438139017909" y="240" width="5.783976865592385" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:675:display 0.57% (2 2 2.0636e-05 0.13944346700000002)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">display</text>
+</g></svg>
+<svg class="func_g" x="0.5392438139017909" y="216" width="5.777926656391964" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:677:&lt;listcomp&gt; 0.56% (2 2 1.3296000000000001e-05 0.139319106)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;listcomp&gt;</text>
+</g></svg>
+<svg class="func_g" x="0.5392438139017909" y="192" width="5.777279801015047" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:649:__str__ 0.56% (12 12 1.6526e-05 0.13930581)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__str__</text>
+</g></svg>
+<svg class="func_g" x="0.5392438139017909" y="168" width="5.7764758049290865" height="23"><g>
+    <title>~:0:&lt;method 'format' of 'str' objects&gt; 0.56% (12 12 7.606300000000001e-05 0.139289284)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'format' of 'str' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="0.5392438139017909" y="144" width="5.772775311507423" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/_tensor.py:982:__format__ 0.56% (8 8 5.875000000000002e-05 0.13921322100000003)</title>
+    <rect height="100%" width="100%" fill="rgb(99, 206, 42)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__format__</text>
+</g></svg>
+<svg class="func_g" x="0.5400143871805959" y="120" width="5.769146528737503" height="23"><g>
+    <title>~:0:&lt;method 'item' of 'torch._C.TensorBase' objects&gt; 0.56% (8 8 0.13913863200000004 0.13913863200000004)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'item' of 'torch._C.TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="7.3232206794941765" y="240" width="3.1308323023494706" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:690:accuracy 0.34% (20 20 0.0017123510000000002 0.084908541)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">accuracy</text>
+</g></svg>
+<svg class="func_g" x="9.586712426841176" y="216" width="1" height="23"><g>
+    <title>~:0:&lt;method 'topk' of 'torch._C.TensorBase' objects&gt; 0.15% (20 20 0.036460121000000005 0.036460121000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'topk' of 'torch._C.TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="11.746900358566732" y="240" width="18.361470810311395" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/_tensor.py:465:backward 1.61% (20 20 0.000309353 0.397971672)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">backward</text>
+</g></svg>
+<svg class="func_g" x="11.746900358566732" y="216" width="18.34611310339892" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/autograd/__init__.py:183:backward 1.61% (20 20 0.00033392000000000003 0.39765599700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">backward</text>
+</g></svg>
+<svg class="func_g" x="12.015478885264843" y="192" width="18.058842081230406" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/autograd/graph.py:764:_engine_run_backward 1.59% (20 20 0.00037623 0.391751191)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_engine_run_backward</text>
+</g></svg>
+<svg class="func_g" x="12.021090316739299" y="168" width="18.034926919426713" height="23"><g>
+    <title>~:0:&lt;method 'run_backward' of 'torch._C._EngineBase' objects&gt; 1.59% (20 20 0.391259619 0.391259619)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'run_backward' of 'torch._C._EngineBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="31.325245975116868" y="240" width="14.903209548385842" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/cuda/streams.py:94:synchronize 1.33% (20 20 8.4102e-05 0.326887712)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">synchronize</text>
+</g></svg>
+<svg class="func_g" x="31.325245975116868" y="216" width="14.899117954605044" height="23"><g>
+    <title>~:0:&lt;function Stream.synchronize at 0x7f1f4d3498b0&gt; 1.32% (20 20 0.32680361 0.32680361)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;function Stream.synchronize at 0x7f1f4d3498b0&gt;</text>
+</g></svg>
+<svg class="func_g" x="47.2284555235027" y="240" width="21.430317205321828" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 1.87% (40 40 0.00040171 0.46105127700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="47.2284555235027" y="216" width="21.410773863454995" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 1.87% (1560 40 0.006832438000000001 0.46064956700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(57, 242, 168)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="48.736408582613045" y="192" width="1.6841288256244207" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/container.py:217:forward 0.22% (41 24 0.0002485588591805363 0.05517180213541674)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="48.743783773066305" y="168" width="1.6646611536322498" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.22% (82 47 0.00014261711436321383 0.05477164751655661)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="48.743783773066305" y="144" width="1.657722777634488" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.22% (185 5 0.0008102676957972729 0.0546290304021934)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="51.420537408237465" y="192" width="2.070830895342946" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/conv.py:457:forward 0.26% (118 118 0.00042404493249211634 0.06312039605989178)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="51.420537408237465" y="168" width="2.0417212418199324" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/conv.py:449:_conv_forward 0.25% (118 118 0.0003302960766612378 0.06252205218419177)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_conv_forward</text>
+</g></svg>
+<svg class="func_g" x="51.420537408237465" y="144" width="2.025652214054968" height="23"><g>
+    <title>~:0:&lt;built-in method torch.conv2d&gt; 0.25% (118 118 0.06219175610753052 0.06219175610753052)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.conv2d&gt;</text>
+</g></svg>
+<svg class="func_g" x="55.105438941109455" y="192" width="5.288662404208811" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/parallel/distributed.py:1630:forward 0.52% (6 6 0.00024195123712389166 0.12926236421634069)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="55.161784174019715" y="168" width="4.25740566228932" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/parallel/distributed.py:1449:_run_ddp_forward 0.44% (6 6 0.0001732592114144901 0.10806506087798072)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_run_ddp_forward</text>
+</g></svg>
+<svg class="func_g" x="55.17642056534499" y="144" width="4.232714965995493" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.44% (6 6 2.879503956320324e-05 0.10755754790114298)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="55.17642056534499" y="120" width="4.231314076542274" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.44% (364 9 0.0015948859822635336 0.10752875286157978)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="61.39410134531826" y="192" width="1.6551275097662526" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torchvision/models/resnet.py:89:forward 0.22% (47 47 0.0022155548873886806 0.054575685121613815)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="61.39410134531826" y="168" width="1.5240590026049516" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.21% (300 300 0.0004628942432233938 0.05188159470603717)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="61.39410134531826" y="144" width="1.5015390244030082" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.21% (174 4 0.0007626514993614364 0.05141870046281378)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="64.04922885508451" y="192" width="4.226870299982814" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torchvision/models/resnet.py:284:forward 0.44% (6 6 2.589473508685065e-05 0.10743741180569154)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="64.04922885508451" y="168" width="4.225610511428002" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torchvision/models/resnet.py:266:_forward_impl 0.44% (6 6 0.0003323231711877207 0.10741151707060469)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_forward_impl</text>
+</g></svg>
+<svg class="func_g" x="64.04922885508451" y="144" width="4.19805007649294" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.43% (59 59 0.00012026525285306437 0.10684501711408732)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="64.04922885508451" y="120" width="4.192199126924325" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.43% (361 9 0.0015829608934751645 0.10672475186123426)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="69.75404003776296" y="240" width="11.371694979998004" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/lr_scheduler.py:127:wrapper 1.03% (20 20 0.000299414 0.25429804300000003)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wrapper</text>
+</g></svg>
+<svg class="func_g" x="69.75404003776296" y="216" width="11.357128376822294" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/optimizer.py:464:wrapper 1.03% (20 20 0.0008230020000000001 0.25399862900000003)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wrapper</text>
+</g></svg>
+<svg class="func_g" x="69.91455645032919" y="192" width="11.154573029857739" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/optimizer.py:70:_use_grad 1.01% (20 20 0.000572556 0.249835139)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_use_grad</text>
+</g></svg>
+<svg class="func_g" x="69.92859393203382" y="168" width="11.111368870344144" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/sgd.py:101:step 1.01% (20 20 0.000825262 0.248947085)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">step</text>
+</g></svg>
+<svg class="func_g" x="70.15902730569243" y="144" width="10.839697688001086" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/sgd.py:244:sgd 0.99% (20 20 0.00025218 0.243362931)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">sgd</text>
+</g></svg>
+<svg class="func_g" x="70.26539093795616" y="120" width="10.72106540434212" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/sgd.py:355:_multi_tensor_sgd 0.98% (20 20 0.001897865 0.240924465)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_multi_tensor_sgd</text>
+</g></svg>
+<svg class="func_g" x="70.36023956177321" y="96" width="3.5252242971587107" height="23"><g>
+    <title>~:0:&lt;built-in method torch._foreach_add&gt; 0.38% (20 20 0.0930152 0.0930152)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch._foreach_add&gt;</text>
+</g></svg>
+<svg class="func_g" x="74.98198279605039" y="96" width="5.852837821659843" height="23"><g>
+    <title>~:0:&lt;built-in method torch._foreach_mul_&gt; 0.57% (19 19 0.140858892 0.140858892)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch._foreach_mul_&gt;</text>
+</g></svg>
+<svg class="func_g" x="82.12573501776096" y="240" width="214.38342283545424" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:427:__iter__ 17.95% (2 2 5.4282000000000006e-05 4.427168873)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__iter__</text>
+</g></svg>
+<svg class="func_g" x="82.12573501776096" y="216" width="214.21690885339262" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:383:_get_iterator 17.93% (1 1 3.5229000000000004e-05 4.423746207000001)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_iterator</text>
+</g></svg>
+<svg class="func_g" x="82.1266421039901" y="192" width="214.21428786312663" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:989:__init__ 17.93% (1 1 0.0006632280000000001 4.423692333)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="82.54390931020163" y="168" width="213.11467809150892" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/process.py:110:start 17.84% (2 2 0.00015710300000000002 4.401090045)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 240, 141)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">start</text>
+</g></svg>
+<svg class="func_g" x="82.54390931020163" y="144" width="213.10411152210952" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/context.py:222:_Popen 17.84% (2 2 3.918e-05 4.400872851)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_Popen</text>
+</g></svg>
+<svg class="func_g" x="82.54399255099207" y="120" width="213.10212215965336" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/context.py:281:_Popen 17.84% (2 2 3.6377e-05 4.4008319600000005)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_Popen</text>
+</g></svg>
+<svg class="func_g" x="82.54399255099207" y="96" width="213.05569038835648" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/popen_spawn_posix.py:30:__init__ 17.84% (2 2 3.1648e-05 4.399877563)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="82.54399255099207" y="72" width="213.05415070131005" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/popen_fork.py:15:__init__ 17.84% (2 2 0.00012478 4.399845915)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="82.54399255099207" y="48" width="213.04600706650282" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/popen_spawn_posix.py:38:_launch 17.84% (2 2 0.000614815 4.3996785240000005)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_launch</text>
+</g></svg>
+<svg class="func_g" x="82.76167840762106" y="24" width="1" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/util.py:447:spawnv_passfds 0.11% (2 2 0.000188208 0.028322498)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">spawnv_passfds</text>
+</g></svg>
+<svg class="func_g" x="82.76250731269867" y="0" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method _posixsubprocess.fork_exec&gt; 0.11% (2 2 0.028074902000000002 0.028074902000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method _posixsubprocess.fork_exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="84.15501252760933" y="24" width="211.40507610999995" height="23"><g>
+    <title>~:0:&lt;method 'write' of '_io.BufferedWriter' objects&gt; 17.70% (2 2 4.365949473000001 4.365949473000001)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'write' of '_io.BufferedWriter' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="297.5091578532152" y="240" width="847.8092848454502" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:625:__next__ 70.73% (22 22 0.0007962850000000001 17.447127525000003)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__next__</text>
+</g></svg>
+<svg class="func_g" x="297.9808405031001" y="216" width="847.2988626322523" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1297:_next_data 70.69% (22 22 0.0006656720000000001 17.436635885)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_next_data</text>
+</g></svg>
+<svg class="func_g" x="297.9808405031001" y="192" width="846.8180547289573" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1264:_get_data 70.65% (20 20 0.00021522900000000002 17.426752962000002)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_data</text>
+</g></svg>
+<svg class="func_g" x="297.99357747931543" y="168" width="846.7948467813284" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1118:_try_get_data 70.65% (22 22 0.00020166121786237016 17.426275926664612)</title>
+    <rect height="100%" width="100%" fill="rgb(71, 230, 126)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_try_get_data</text>
+</g></svg>
+<svg class="func_g" x="297.99357747931543" y="144" width="846.7850358875942" height="23"><g>
+    <title>/usr/lib/python3.8/queue.py:153:get 70.65% (22 22 0.0006440448848677786 17.42607426544675)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">get</text>
+</g></svg>
+<svg class="func_g" x="298.0140275143884" y="120" width="846.718205105459" height="23"><g>
+    <title>/usr/lib/python3.8/threading.py:270:wait 70.64% (20 20 0.0004115652183975288 17.42470057031956)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="298.02741885679643" y="96" width="846.6844391306033" height="23"><g>
+    <title>~:0:&lt;method 'acquire' of '_thread.lock' objects&gt; 70.64% (46 46 17.424006516567047 17.424006516567047)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'acquire' of '_thread.lock' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1146.3264553180147" y="240" width="51.94222704966558" height="23"><g>
+    <title>~:0:&lt;method 'item' of 'torch._C.TensorBase' objects&gt; 4.41% (20 20 1.088218288 1.088218288)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'item' of 'torch._C.TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="312" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method _posixsubprocess.fork_exec&gt; 0.11% (2 2 0.028074902000000002 0.028074902000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method _posixsubprocess.fork_exec&gt;</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="336" width="1" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/util.py:447:spawnv_passfds 0.11% (2 2 0.028074902000000002 0.028074902000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">spawnv_passfds</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="360" width="1" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/popen_spawn_posix.py:38:_launch 0.00% (2 2 0.000188208 0.028322498)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_launch</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="384" width="1" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/popen_fork.py:15:__init__ 0.00% (2 2 0.000614815 4.3996785240000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="408" width="1" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/popen_spawn_posix.py:30:__init__ 0.00% (2 2 0.00012478 4.399845915)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="432" width="1" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/context.py:281:_Popen 0.00% (2 2 3.1648e-05 4.399877563)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_Popen</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="456" width="1" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/context.py:222:_Popen 0.00% (2 2 3.6377e-05 4.4008319600000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_Popen</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="480" width="1" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/process.py:110:start 0.00% (2 2 3.918e-05 4.400872851)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">start</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="504" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:989:__init__ 0.00% (2 2 0.00015710300000000002 4.401090045)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="528" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:383:_get_iterator 0.00% (1 1 0.0006632280000000001 4.423692333)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_iterator</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="552" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:427:__iter__ 0.00% (1 1 3.5229000000000004e-05 4.423746207000001)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__iter__</text>
+</g></svg>
+<svg class="func_g" x="7.0531913013331895" y="576" width="1" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 0.00% (2 2 5.4282000000000006e-05 4.427168873)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="8.99873431672682" y="312" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method torch._C._distributed_c10d._broadcast_coalesced&gt; 0.15% (20 20 0.036094711 0.036094711)</title>
+    <rect height="100%" width="100%" fill="rgb(214, 214, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch._C._distributed_c10d._broadcast_coalesced&gt;</text>
+</g></svg>
+<svg class="func_g" x="8.99873431672682" y="336" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/parallel/distributed.py:2103:_distributed_broadcast_coalesced 0.15% (20 20 0.036094711 0.036094711)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_distributed_broadcast_coalesced</text>
+</g></svg>
+<svg class="func_g" x="8.99873431672682" y="360" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/parallel/distributed.py:2177:_default_broadcast_coalesced 0.00% (20 20 0.000205896 0.036300607000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_default_broadcast_coalesced</text>
+</g></svg>
+<svg class="func_g" x="8.99873431672682" y="384" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/parallel/distributed.py:2167:_sync_module_buffers 0.00% (20 20 0.000241644 0.036542251000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_sync_module_buffers</text>
+</g></svg>
+<svg class="func_g" x="8.99873431672682" y="408" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/parallel/distributed.py:2148:_sync_buffers 0.00% (20 20 0.000127331 0.036820897000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_sync_buffers</text>
+</g></svg>
+<svg class="func_g" x="8.99873431672682" y="432" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/parallel/distributed.py:1488:_pre_forward 0.00% (20 20 0.000702984 0.059090891000000006)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_pre_forward</text>
+</g></svg>
+<svg class="func_g" x="8.99873431672682" y="456" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/parallel/distributed.py:1630:forward 0.02% (20 20 0.00392176 0.065371179)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="8.99873431672682" y="480" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.00% (20 20 0.0008223810000000001 0.43935676300000004)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="8.99873431672682" y="504" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.03% (1560 40 0.006832438000000001 0.46064956700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="12.86868414374174" y="312" width="3.5252242971587107" height="23"><g>
+    <title>~:0:&lt;built-in method torch._foreach_add&gt; 0.38% (20 20 0.0930152 0.0930152)</title>
+    <rect height="100%" width="100%" fill="rgb(214, 214, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch._foreach_add&gt;</text>
+</g></svg>
+<svg class="func_g" x="12.86868414374174" y="336" width="3.5252242971587107" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/sgd.py:355:_multi_tensor_sgd 0.38% (20 20 0.0930152 0.0930152)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_multi_tensor_sgd</text>
+</g></svg>
+<svg class="func_g" x="12.86868414374174" y="360" width="3.5252242971587107" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/sgd.py:244:sgd 0.01% (20 20 0.001897865 0.240924465)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">sgd</text>
+</g></svg>
+<svg class="func_g" x="12.86868414374174" y="384" width="3.5252242971587107" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/sgd.py:101:step 0.00% (20 20 0.00025218 0.243362931)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">step</text>
+</g></svg>
+<svg class="func_g" x="12.86868414374174" y="408" width="3.5252242971587107" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/optimizer.py:70:_use_grad 0.00% (20 20 0.000825262 0.248947085)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_use_grad</text>
+</g></svg>
+<svg class="func_g" x="12.86868414374174" y="432" width="3.5252242971587107" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/optimizer.py:464:wrapper 0.00% (20 20 0.000572556 0.249835139)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wrapper</text>
+</g></svg>
+<svg class="func_g" x="12.86868414374174" y="456" width="3.5252242971587107" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/lr_scheduler.py:127:wrapper 0.00% (20 20 0.0008230020000000001 0.25399862900000003)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wrapper</text>
+</g></svg>
+<svg class="func_g" x="12.86868414374174" y="480" width="3.5252242971587107" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 0.00% (20 20 0.000299414 0.25429804300000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="17.490427378018925" y="312" width="5.852837821659843" height="23"><g>
+    <title>~:0:&lt;built-in method torch._foreach_mul_&gt; 0.57% (19 19 0.140858892 0.140858892)</title>
+    <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch._foreach_mul_&gt;</text>
+</g></svg>
+<svg class="func_g" x="17.490427378018925" y="336" width="5.852837821659843" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/sgd.py:355:_multi_tensor_sgd 0.57% (19 19 0.140858892 0.140858892)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_multi_tensor_sgd</text>
+</g></svg>
+<svg class="func_g" x="17.490427378018925" y="360" width="5.852837821659843" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/sgd.py:244:sgd 0.01% (20 20 0.001897865 0.240924465)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">sgd</text>
+</g></svg>
+<svg class="func_g" x="17.490427378018925" y="384" width="5.852837821659843" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/sgd.py:101:step 0.00% (20 20 0.00025218 0.243362931)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">step</text>
+</g></svg>
+<svg class="func_g" x="17.490427378018925" y="408" width="5.852837821659843" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/optimizer.py:70:_use_grad 0.00% (20 20 0.000825262 0.248947085)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_use_grad</text>
+</g></svg>
+<svg class="func_g" x="17.490427378018925" y="432" width="5.852837821659843" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/optimizer.py:464:wrapper 0.00% (20 20 0.000572556 0.249835139)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wrapper</text>
+</g></svg>
+<svg class="func_g" x="17.490427378018925" y="456" width="5.852837821659843" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/optim/lr_scheduler.py:127:wrapper 0.00% (20 20 0.0008230020000000001 0.25399862900000003)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wrapper</text>
+</g></svg>
+<svg class="func_g" x="17.490427378018925" y="480" width="5.852837821659843" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 0.00% (20 20 0.000299414 0.25429804300000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="24.726147197029878" y="312" width="1.1604952561401123" height="23"><g>
+    <title>~:0:&lt;built-in method torch.batch_norm&gt; 0.18% (400 400 0.044408605000000004 0.044408605000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(182, 182, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.batch_norm&gt;</text>
+</g></svg>
+<svg class="func_g" x="24.726147197029878" y="336" width="1.1604952561401123" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/functional.py:2481:batch_norm 0.18% (400 400 0.044408605000000004 0.044408605000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">batch_norm</text>
+</g></svg>
+<svg class="func_g" x="24.726147197029878" y="360" width="1.1604952561401123" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/batchnorm.py:142:forward 0.01% (400 400 0.0025776500000000003 0.050425124)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="24.726147197029878" y="384" width="1.1604952561401123" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.02% (400 400 0.004663426 0.08072657500000001)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="24.726147197029878" y="408" width="1.1604952561401123" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.03% (1560 40 0.006832438000000001 0.46064956700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="26.935565415534157" y="312" width="9.284051129577945" height="23"><g>
+    <title>~:0:&lt;built-in method torch.conv2d&gt; 0.86% (400 400 0.21138688600000002 0.21138688600000002)</title>
+    <rect height="100%" width="100%" fill="rgb(166, 166, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.conv2d&gt;</text>
+</g></svg>
+<svg class="func_g" x="26.935565415534157" y="336" width="9.284051129577945" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/conv.py:449:_conv_forward 0.86% (400 400 0.21138688600000002 0.21138688600000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_conv_forward</text>
+</g></svg>
+<svg class="func_g" x="26.935565415534157" y="360" width="9.284051129577945" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/conv.py:457:forward 0.00% (400 400 0.001122661 0.21250954700000002)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="26.935565415534157" y="384" width="9.284051129577945" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.01% (400 400 0.001441309 0.21454329000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="26.935565415534157" y="408" width="9.284051129577945" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.03% (1560 40 0.006832438000000001 0.46064956700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="26.935565415534157" y="432" width="2.0534417386546306" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 0.00% (40 40 0.00040171 0.46105127700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="29.989007154188787" y="432" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/container.py:217:forward 0.00% (280 160 0.000486115 0.186690914)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="29.989007154188787" y="456" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.00% (140 80 0.00084484 0.18752638900000002)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="29.989007154188787" y="480" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.03% (1560 40 0.006832438000000001 0.46064956700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="31.225420233324847" y="432" width="1.4211769021813883" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/parallel/distributed.py:1449:_run_ddp_forward 0.00% (20 20 9.7873e-05 0.36558310200000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_run_ddp_forward</text>
+</g></svg>
+<svg class="func_g" x="31.225420233324847" y="456" width="1.4211769021813883" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/parallel/distributed.py:1630:forward 0.00% (20 20 0.0005889000000000001 0.36730811500000005)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="31.225420233324847" y="480" width="1.4211769021813883" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.00% (20 20 0.0008223810000000001 0.43935676300000004)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="31.225420233324847" y="504" width="1.4211769021813883" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.03% (1560 40 0.006832438000000001 0.46064956700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="34.81447908523278" y="432" width="1.4051374598793194" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torchvision/models/resnet.py:266:_forward_impl 0.00% (200 200 0.000408776 0.363161243)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_forward_impl</text>
+</g></svg>
+<svg class="func_g" x="34.81447908523278" y="456" width="1.4051374598793194" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torchvision/models/resnet.py:284:forward 0.00% (20 20 0.0011295510000000001 0.36508675)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="34.81447908523278" y="480" width="1.4051374598793194" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.00% (20 20 8.8015e-05 0.365174765)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="34.81447908523278" y="504" width="1.4051374598793194" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.03% (1560 40 0.006832438000000001 0.46064956700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="38.84836437757779" y="312" width="14.899117954605044" height="23"><g>
+    <title>~:0:&lt;function Stream.synchronize at 0x7f1f4d3498b0&gt; 1.32% (20 20 0.32680361 0.32680361)</title>
+    <rect height="100%" width="100%" fill="rgb(230, 230, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;function Stream.synchronize at 0x7f1f4d3498b0&gt;</text>
+</g></svg>
+<svg class="func_g" x="38.84836437757779" y="336" width="14.899117954605044" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/cuda/streams.py:94:synchronize 1.32% (20 20 0.32680361 0.32680361)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">synchronize</text>
+</g></svg>
+<svg class="func_g" x="38.84836437757779" y="360" width="14.899117954605044" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 0.00% (20 20 8.4102e-05 0.326887712)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="54.75876051060735" y="312" width="847.1842564103199" height="23"><g>
+    <title>~:0:&lt;method 'acquire' of '_thread.lock' objects&gt; 70.68% (158 158 17.434280174 17.434280174)</title>
+    <rect height="100%" width="100%" fill="rgb(182, 182, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'acquire' of '_thread.lock' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="54.765865800475574" y="336" width="847.1749634104193" height="23"><g>
+    <title>/usr/lib/python3.8/threading.py:270:wait 70.68% (46 46 17.434089158000003 17.434089158000003)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="54.765865800475574" y="360" width="846.8047645541585" height="23"><g>
+    <title>/usr/lib/python3.8/queue.py:153:get 0.00% (20 20 0.000411626 17.42727392)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">get</text>
+</g></svg>
+<svg class="func_g" x="54.765865800475574" y="384" width="846.8047645541585" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1118:_try_get_data 0.00% (22 22 0.0006441400000000001 17.428647818)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_try_get_data</text>
+</g></svg>
+<svg class="func_g" x="54.765865800475574" y="408" width="846.8047645541585" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1264:_get_data 0.00% (22 22 0.00020169100000000002 17.428849509000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_data</text>
+</g></svg>
+<svg class="func_g" x="54.891448962821414" y="432" width="846.6791813918129" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1297:_next_data 0.00% (20 20 0.00021522900000000002 17.426752962000002)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_next_data</text>
+</g></svg>
+<svg class="func_g" x="54.891448962821414" y="456" width="846.6791813918129" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:625:__next__ 0.00% (22 22 0.0006656720000000001 17.436635885)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__next__</text>
+</g></svg>
+<svg class="func_g" x="54.891448962821414" y="480" width="846.6791813918129" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 0.00% (22 22 0.0007962850000000001 17.447127525000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="905.6201473349679" y="312" width="58.71422137671411" height="23"><g>
+    <title>~:0:&lt;method 'item' of 'torch._C.TensorBase' objects&gt; 4.98% (31 31 1.2274154560000001 1.2274154560000001)</title>
+    <rect height="100%" width="100%" fill="rgb(166, 166, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'item' of 'torch._C.TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="905.6201473349679" y="336" width="51.94222704966559" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 4.41% (20 20 1.088218288 1.088218288)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="958.5623743846334" y="336" width="5.769146528737503" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/_tensor.py:982:__format__ 0.56% (8 8 0.139138632 0.139138632)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__format__</text>
+</g></svg>
+<svg class="func_g" x="958.5623743846334" y="360" width="5.769146528737503" height="23"><g>
+    <title>~:0:&lt;method 'format' of 'str' objects&gt; 0.00% (8 8 5.8750000000000005e-05 0.139213221)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'format' of 'str' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="958.5626660031406" y="384" width="5.7665055911191025" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:649:__str__ 0.00% (12 12 7.606300000000001e-05 0.139289284)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__str__</text>
+</g></svg>
+<svg class="func_g" x="958.5626660031406" y="408" width="5.7665055911191025" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:677:&lt;listcomp&gt; 0.00% (12 12 1.6526e-05 0.13930581)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;listcomp&gt;</text>
+</g></svg>
+<svg class="func_g" x="958.5626660031406" y="432" width="5.7665055911191025" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:675:display 0.00% (2 2 1.3296000000000001e-05 0.139319106)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">display</text>
+</g></svg>
+<svg class="func_g" x="958.5626660031406" y="456" width="5.7665055911191025" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 0.00% (2 2 2.0636e-05 0.13944346700000002)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="965.897508811042" y="312" width="18.034926919426713" height="23"><g>
+    <title>~:0:&lt;method 'run_backward' of 'torch._C._EngineBase' objects&gt; 1.59% (20 20 0.391259619 0.391259619)</title>
+    <rect height="100%" width="100%" fill="rgb(214, 214, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'run_backward' of 'torch._C._EngineBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="965.897508811042" y="336" width="18.034926919426713" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/autograd/graph.py:764:_engine_run_backward 1.59% (20 20 0.391259619 0.391259619)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_engine_run_backward</text>
+</g></svg>
+<svg class="func_g" x="965.897508811042" y="360" width="18.034926919426713" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/autograd/__init__.py:183:backward 0.00% (20 20 0.00037623 0.391751191)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">backward</text>
+</g></svg>
+<svg class="func_g" x="965.897508811042" y="384" width="18.034926919426713" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/_tensor.py:465:backward 0.00% (20 20 0.00033392000000000003 0.39765599700000004)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">backward</text>
+</g></svg>
+<svg class="func_g" x="965.897508811042" y="408" width="18.034926919426713" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 0.00% (20 20 0.000309353 0.397971672)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="985.7946691848588" y="312" width="1" height="23"><g>
+    <title>~:0:&lt;method 'topk' of 'torch._C.TensorBase' objects&gt; 0.15% (20 20 0.036460121000000005 0.036460121000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'topk' of 'torch._C.TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="985.7946691848588" y="336" width="1" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:690:accuracy 0.15% (20 20 0.036460121000000005 0.036460121000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">accuracy</text>
+</g></svg>
+<svg class="func_g" x="985.7946691848588" y="360" width="1" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 0.01% (20 20 0.0017123510000000002 0.084908541)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="312" width="211.40507610999995" height="23"><g>
+    <title>~:0:&lt;method 'write' of '_io.BufferedWriter' objects&gt; 17.70% (2 2 4.365949473000001 4.365949473000001)</title>
+    <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'write' of '_io.BufferedWriter' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="336" width="211.40507610999995" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/popen_spawn_posix.py:38:_launch 17.70% (2 2 4.365949473000001 4.365949473000001)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_launch</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="360" width="211.40507610999995" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/popen_fork.py:15:__init__ 0.00% (2 2 0.000614815 4.3996785240000005)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="384" width="211.40507610999995" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/popen_spawn_posix.py:30:__init__ 0.00% (2 2 0.00012478 4.399845915)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="408" width="211.40507610999995" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/context.py:281:_Popen 0.00% (2 2 3.1648e-05 4.399877563)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_Popen</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="432" width="211.40507610999995" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/context.py:222:_Popen 0.00% (2 2 3.6377e-05 4.4008319600000005)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_Popen</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="456" width="211.40507610999995" height="23"><g>
+    <title>/usr/lib/python3.8/multiprocessing/process.py:110:start 0.00% (2 2 3.918e-05 4.400872851)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">start</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="480" width="211.40507610999995" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:989:__init__ 0.00% (2 2 0.00015710300000000002 4.401090045)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__init__</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="504" width="211.40507610999995" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:383:_get_iterator 0.00% (1 1 0.0006632280000000001 4.423692333)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_iterator</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="528" width="211.40507610999995" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:427:__iter__ 0.00% (1 1 3.5229000000000004e-05 4.423746207000001)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__iter__</text>
+</g></svg>
+<svg class="func_g" x="987.5949238900014" y="552" width="211.40507610999995" height="23"><g>
+    <title>/home/oem/xyp/imagenet_code/Baseline/main_profiler.py:480:train 0.00% (2 2 5.4282000000000006e-05 4.427168873)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">train</text>
+</g></svg>
+</svg>

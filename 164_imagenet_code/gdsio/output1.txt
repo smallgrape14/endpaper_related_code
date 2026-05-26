@@ -1,0 +1,280 @@
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 2(KiB) Throughput: 0.003786 GiB/sec, Avg_Latency: 503.477264 usecs ops: 32768 total_time 16.507726 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 64832/65536(KiB) IOSize: 2(KiB) Throughput: 0.006822 GiB/sec, Avg_Latency: 558.613755 usecs ops: 32416 total_time 9.062738 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 64674/65536(KiB) IOSize: 2(KiB) Throughput: 0.014217 GiB/sec, Avg_Latency: 535.511465 usecs ops: 32337 total_time 4.338329 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 64022/65536(KiB) IOSize: 2(KiB) Throughput: 0.029835 GiB/sec, Avg_Latency: 508.895054 usecs ops: 32011 total_time 2.046448 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 58702/65536(KiB) IOSize: 2(KiB) Throughput: 0.056137 GiB/sec, Avg_Latency: 538.353259 usecs ops: 29351 total_time 0.997252 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 62472/65536(KiB) IOSize: 2(KiB) Throughput: 0.057619 GiB/sec, Avg_Latency: 1037.940449 usecs ops: 31236 total_time 1.033990 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 56124/65536(KiB) IOSize: 2(KiB) Throughput: 0.047005 GiB/sec, Avg_Latency: 2508.712535 usecs ops: 28062 total_time 1.138679 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 47686/65536(KiB) IOSize: 2(KiB) Throughput: 0.026487 GiB/sec, Avg_Latency: 8901.736307 usecs ops: 23843 total_time 1.716979 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 53824/65536(KiB) IOSize: 2(KiB) Throughput: 0.001519 GiB/sec, Avg_Latency: 320991.904139 usecs ops: 26912 total_time 33.784200 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 4(KiB) Throughput: 0.012073 GiB/sec, Avg_Latency: 315.398682 usecs ops: 16384 total_time 5.176663 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 61680/65536(KiB) IOSize: 4(KiB) Throughput: 0.022781 GiB/sec, Avg_Latency: 335.012345 usecs ops: 15420 total_time 2.582113 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 64732/65536(KiB) IOSize: 4(KiB) Throughput: 0.028805 GiB/sec, Avg_Latency: 527.514275 usecs ops: 16183 total_time 2.143152 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 60416/65536(KiB) IOSize: 4(KiB) Throughput: 0.067356 GiB/sec, Avg_Latency: 448.959655 usecs ops: 15104 total_time 0.855410 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 56892/65536(KiB) IOSize: 4(KiB) Throughput: 0.103571 GiB/sec, Avg_Latency: 580.258866 usecs ops: 14223 total_time 0.523857 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 61080/65536(KiB) IOSize: 4(KiB) Throughput: 0.110121 GiB/sec, Avg_Latency: 1088.979356 usecs ops: 15270 total_time 0.528966 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 55164/65536(KiB) IOSize: 4(KiB) Throughput: 0.090158 GiB/sec, Avg_Latency: 2667.604160 usecs ops: 13791 total_time 0.583514 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 52984/65536(KiB) IOSize: 4(KiB) Throughput: 0.048309 GiB/sec, Avg_Latency: 10063.200923 usecs ops: 13246 total_time 1.045964 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 43256/65536(KiB) IOSize: 4(KiB) Throughput: 0.022951 GiB/sec, Avg_Latency: 41531.125589 usecs ops: 10814 total_time 1.797423 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 8(KiB) Throughput: 0.024101 GiB/sec, Avg_Latency: 315.448975 usecs ops: 8192 total_time 2.593216 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 61384/65536(KiB) IOSize: 8(KiB) Throughput: 0.040300 GiB/sec, Avg_Latency: 377.944106 usecs ops: 7673 total_time 1.452627 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 62072/65536(KiB) IOSize: 8(KiB) Throughput: 0.070540 GiB/sec, Avg_Latency: 429.339130 usecs ops: 7759 total_time 0.839186 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 56720/65536(KiB) IOSize: 8(KiB) Throughput: 0.139709 GiB/sec, Avg_Latency: 428.764914 usecs ops: 7090 total_time 0.387180 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 55632/65536(KiB) IOSize: 8(KiB) Throughput: 0.197972 GiB/sec, Avg_Latency: 598.039260 usecs ops: 6954 total_time 0.267992 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 55928/65536(KiB) IOSize: 8(KiB) Throughput: 0.201893 GiB/sec, Avg_Latency: 1164.913265 usecs ops: 6991 total_time 0.264185 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 51160/65536(KiB) IOSize: 8(KiB) Throughput: 0.168833 GiB/sec, Avg_Latency: 2809.580147 usecs ops: 6395 total_time 0.288984 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 50216/65536(KiB) IOSize: 8(KiB) Throughput: 0.087762 GiB/sec, Avg_Latency: 10845.720932 usecs ops: 6277 total_time 0.545676 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 29064/65536(KiB) IOSize: 8(KiB) Throughput: 0.037342 GiB/sec, Avg_Latency: 51601.299175 usecs ops: 3633 total_time 0.742254 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 16(KiB) Throughput: 0.032240 GiB/sec, Avg_Latency: 471.019531 usecs ops: 4096 total_time 1.938572 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 63680/65536(KiB) IOSize: 16(KiB) Throughput: 0.055835 GiB/sec, Avg_Latency: 542.489619 usecs ops: 3980 total_time 1.087660 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 63424/65536(KiB) IOSize: 16(KiB) Throughput: 0.109009 GiB/sec, Avg_Latency: 550.940280 usecs ops: 3964 total_time 0.554869 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 62784/65536(KiB) IOSize: 16(KiB) Throughput: 0.211280 GiB/sec, Avg_Latency: 558.468714 usecs ops: 3924 total_time 0.283394 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 58016/65536(KiB) IOSize: 16(KiB) Throughput: 0.357892 GiB/sec, Avg_Latency: 641.515194 usecs ops: 3626 total_time 0.154595 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 58976/65536(KiB) IOSize: 16(KiB) Throughput: 0.398102 GiB/sec, Avg_Latency: 1134.450136 usecs ops: 3686 total_time 0.141280 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 51872/65536(KiB) IOSize: 16(KiB) Throughput: 0.285176 GiB/sec, Avg_Latency: 3243.552928 usecs ops: 3242 total_time 0.173468 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 41104/65536(KiB) IOSize: 16(KiB) Throughput: 0.154695 GiB/sec, Avg_Latency: 11913.249885 usecs ops: 2569 total_time 0.253401 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 29904/65536(KiB) IOSize: 16(KiB) Throughput: 0.058061 GiB/sec, Avg_Latency: 65697.214231 usecs ops: 1869 total_time 0.491181 secs
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 2(KiB) Throughput: 0.003585 GiB/sec, Avg_Latency: 531.712708 usecs ops: 32768 total_time 17.432924 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 63766/65536(KiB) IOSize: 2(KiB) Throughput: 0.006723 GiB/sec, Avg_Latency: 567.250500 usecs ops: 31883 total_time 9.045578 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 62842/65536(KiB) IOSize: 2(KiB) Throughput: 0.013720 GiB/sec, Avg_Latency: 555.307252 usecs ops: 31421 total_time 4.368174 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 60932/65536(KiB) IOSize: 2(KiB) Throughput: 0.028863 GiB/sec, Avg_Latency: 527.240873 usecs ops: 30466 total_time 2.013275 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 55972/65536(KiB) IOSize: 2(KiB) Throughput: 0.057250 GiB/sec, Avg_Latency: 528.366717 usecs ops: 27986 total_time 0.932379 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 60692/65536(KiB) IOSize: 2(KiB) Throughput: 0.068524 GiB/sec, Avg_Latency: 869.423057 usecs ops: 30346 total_time 0.844673 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 57278/65536(KiB) IOSize: 2(KiB) Throughput: 0.049680 GiB/sec, Avg_Latency: 2372.090132 usecs ops: 28639 total_time 1.099532 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 45250/65536(KiB) IOSize: 2(KiB) Throughput: 0.026294 GiB/sec, Avg_Latency: 8960.086080 usecs ops: 22625 total_time 1.641200 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 53884/65536(KiB) IOSize: 2(KiB) Throughput: 0.001494 GiB/sec, Avg_Latency: 325083.169937 usecs ops: 26942 total_time 34.395322 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 4(KiB) Throughput: 0.012545 GiB/sec, Avg_Latency: 303.534180 usecs ops: 16384 total_time 4.982252 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 61952/65536(KiB) IOSize: 4(KiB) Throughput: 0.024351 GiB/sec, Avg_Latency: 313.169966 usecs ops: 15488 total_time 2.426235 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 62168/65536(KiB) IOSize: 4(KiB) Throughput: 0.037508 GiB/sec, Avg_Latency: 404.892724 usecs ops: 15542 total_time 1.580661 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 62132/65536(KiB) IOSize: 4(KiB) Throughput: 0.070894 GiB/sec, Avg_Latency: 426.187425 usecs ops: 15533 total_time 0.835811 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 59480/65536(KiB) IOSize: 4(KiB) Throughput: 0.119736 GiB/sec, Avg_Latency: 501.527434 usecs ops: 14870 total_time 0.473746 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 59992/65536(KiB) IOSize: 4(KiB) Throughput: 0.119882 GiB/sec, Avg_Latency: 997.932633 usecs ops: 14998 total_time 0.477242 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 56140/65536(KiB) IOSize: 4(KiB) Throughput: 0.094523 GiB/sec, Avg_Latency: 2542.541062 usecs ops: 14035 total_time 0.566414 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 45616/65536(KiB) IOSize: 4(KiB) Throughput: 0.047876 GiB/sec, Avg_Latency: 10009.406923 usecs ops: 11404 total_time 0.908648 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 41928/65536(KiB) IOSize: 4(KiB) Throughput: 0.020540 GiB/sec, Avg_Latency: 46516.760212 usecs ops: 10482 total_time 1.946702 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 8(KiB) Throughput: 0.023617 GiB/sec, Avg_Latency: 321.918945 usecs ops: 8192 total_time 2.646415 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 60432/65536(KiB) IOSize: 8(KiB) Throughput: 0.045744 GiB/sec, Avg_Latency: 333.457600 usecs ops: 7554 total_time 1.259896 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 61040/65536(KiB) IOSize: 8(KiB) Throughput: 0.064799 GiB/sec, Avg_Latency: 466.976988 usecs ops: 7630 total_time 0.898357 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 62544/65536(KiB) IOSize: 8(KiB) Throughput: 0.129443 GiB/sec, Avg_Latency: 462.439029 usecs ops: 7818 total_time 0.460794 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 60168/65536(KiB) IOSize: 8(KiB) Throughput: 0.227516 GiB/sec, Avg_Latency: 519.424747 usecs ops: 7521 total_time 0.252205 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 59608/65536(KiB) IOSize: 8(KiB) Throughput: 0.193886 GiB/sec, Avg_Latency: 1220.138853 usecs ops: 7451 total_time 0.293196 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 54816/65536(KiB) IOSize: 8(KiB) Throughput: 0.165059 GiB/sec, Avg_Latency: 2878.478355 usecs ops: 6852 total_time 0.316714 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 48144/65536(KiB) IOSize: 8(KiB) Throughput: 0.087755 GiB/sec, Avg_Latency: 10881.793682 usecs ops: 6018 total_time 0.523203 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 34480/65536(KiB) IOSize: 8(KiB) Throughput: 0.041433 GiB/sec, Avg_Latency: 45465.160678 usecs ops: 4310 total_time 0.793640 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 16(KiB) Throughput: 0.031396 GiB/sec, Avg_Latency: 483.696289 usecs ops: 4096 total_time 1.990677 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 62752/65536(KiB) IOSize: 16(KiB) Throughput: 0.056439 GiB/sec, Avg_Latency: 536.944572 usecs ops: 3922 total_time 1.060356 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 64304/65536(KiB) IOSize: 16(KiB) Throughput: 0.110101 GiB/sec, Avg_Latency: 545.431410 usecs ops: 4019 total_time 0.556988 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 60736/65536(KiB) IOSize: 16(KiB) Throughput: 0.236778 GiB/sec, Avg_Latency: 496.208781 usecs ops: 3796 total_time 0.244627 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 55488/65536(KiB) IOSize: 16(KiB) Throughput: 0.384471 GiB/sec, Avg_Latency: 595.646777 usecs ops: 3468 total_time 0.137637 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 57792/65536(KiB) IOSize: 16(KiB) Throughput: 0.491017 GiB/sec, Avg_Latency: 907.115657 usecs ops: 3612 total_time 0.112246 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 49616/65536(KiB) IOSize: 16(KiB) Throughput: 0.272709 GiB/sec, Avg_Latency: 3435.612657 usecs ops: 3101 total_time 0.173509 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 41600/65536(KiB) IOSize: 16(KiB) Throughput: 0.162020 GiB/sec, Avg_Latency: 11406.753200 usecs ops: 2600 total_time 0.244864 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 30288/65536(KiB) IOSize: 16(KiB) Throughput: 0.067331 GiB/sec, Avg_Latency: 55569.721698 usecs ops: 1893 total_time 0.429000 secs
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 2(KiB) Throughput: 0.003588 GiB/sec, Avg_Latency: 531.320374 usecs ops: 32768 total_time 17.420074 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 64642/65536(KiB) IOSize: 2(KiB) Throughput: 0.006564 GiB/sec, Avg_Latency: 580.678452 usecs ops: 32321 total_time 9.392364 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 64638/65536(KiB) IOSize: 2(KiB) Throughput: 0.013296 GiB/sec, Avg_Latency: 572.591142 usecs ops: 32319 total_time 4.636102 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 62126/65536(KiB) IOSize: 2(KiB) Throughput: 0.025747 GiB/sec, Avg_Latency: 590.503384 usecs ops: 31063 total_time 2.301160 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 57672/65536(KiB) IOSize: 2(KiB) Throughput: 0.050005 GiB/sec, Avg_Latency: 605.977737 usecs ops: 28836 total_time 1.099899 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 60242/65536(KiB) IOSize: 2(KiB) Throughput: 0.060127 GiB/sec, Avg_Latency: 992.851094 usecs ops: 30121 total_time 0.955498 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 58066/65536(KiB) IOSize: 2(KiB) Throughput: 0.045415 GiB/sec, Avg_Latency: 2610.513849 usecs ops: 29033 total_time 1.219338 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 48600/65536(KiB) IOSize: 2(KiB) Throughput: 0.025769 GiB/sec, Avg_Latency: 9170.790362 usecs ops: 24300 total_time 1.798606 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 53804/65536(KiB) IOSize: 2(KiB) Throughput: 0.001543 GiB/sec, Avg_Latency: 317397.991985 usecs ops: 26902 total_time 33.247144 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 4(KiB) Throughput: 0.012739 GiB/sec, Avg_Latency: 298.901550 usecs ops: 16384 total_time 4.906219 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 61668/65536(KiB) IOSize: 4(KiB) Throughput: 0.023758 GiB/sec, Avg_Latency: 321.168848 usecs ops: 15417 total_time 2.475425 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 65024/65536(KiB) IOSize: 4(KiB) Throughput: 0.029541 GiB/sec, Avg_Latency: 514.339893 usecs ops: 16256 total_time 2.099203 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 62828/65536(KiB) IOSize: 4(KiB) Throughput: 0.065818 GiB/sec, Avg_Latency: 459.290432 usecs ops: 15707 total_time 0.910348 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 53596/65536(KiB) IOSize: 4(KiB) Throughput: 0.130418 GiB/sec, Avg_Latency: 459.121951 usecs ops: 13399 total_time 0.391919 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 62124/65536(KiB) IOSize: 4(KiB) Throughput: 0.121943 GiB/sec, Avg_Latency: 981.020808 usecs ops: 15531 total_time 0.485850 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 57520/65536(KiB) IOSize: 4(KiB) Throughput: 0.092722 GiB/sec, Avg_Latency: 2585.529328 usecs ops: 14380 total_time 0.591613 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 54076/65536(KiB) IOSize: 4(KiB) Throughput: 0.048521 GiB/sec, Avg_Latency: 9940.528203 usecs ops: 13519 total_time 1.062857 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 38856/65536(KiB) IOSize: 4(KiB) Throughput: 0.021526 GiB/sec, Avg_Latency: 44952.907370 usecs ops: 9714 total_time 1.721417 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 8(KiB) Throughput: 0.021739 GiB/sec, Avg_Latency: 349.811890 usecs ops: 8192 total_time 2.874976 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 59904/65536(KiB) IOSize: 8(KiB) Throughput: 0.041814 GiB/sec, Avg_Latency: 365.630707 usecs ops: 7488 total_time 1.366262 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 65024/65536(KiB) IOSize: 8(KiB) Throughput: 0.085746 GiB/sec, Avg_Latency: 351.351972 usecs ops: 8128 total_time 0.723200 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 62720/65536(KiB) IOSize: 8(KiB) Throughput: 0.123820 GiB/sec, Avg_Latency: 484.209980 usecs ops: 7840 total_time 0.483076 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 59048/65536(KiB) IOSize: 8(KiB) Throughput: 0.170406 GiB/sec, Avg_Latency: 697.708088 usecs ops: 7381 total_time 0.330461 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 57176/65536(KiB) IOSize: 8(KiB) Throughput: 0.235031 GiB/sec, Avg_Latency: 995.652401 usecs ops: 7147 total_time 0.232000 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 53784/65536(KiB) IOSize: 8(KiB) Throughput: 0.170064 GiB/sec, Avg_Latency: 2875.791801 usecs ops: 6723 total_time 0.301607 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 47848/65536(KiB) IOSize: 8(KiB) Throughput: 0.087631 GiB/sec, Avg_Latency: 10797.085042 usecs ops: 5981 total_time 0.520723 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 39704/65536(KiB) IOSize: 8(KiB) Throughput: 0.039965 GiB/sec, Avg_Latency: 48478.696179 usecs ops: 4963 total_time 0.947441 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 16(KiB) Throughput: 0.033432 GiB/sec, Avg_Latency: 454.101807 usecs ops: 4096 total_time 1.869445 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 64256/65536(KiB) IOSize: 16(KiB) Throughput: 0.057532 GiB/sec, Avg_Latency: 526.079332 usecs ops: 4016 total_time 1.065135 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 61488/65536(KiB) IOSize: 16(KiB) Throughput: 0.111416 GiB/sec, Avg_Latency: 539.072432 usecs ops: 3843 total_time 0.526313 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 59264/65536(KiB) IOSize: 16(KiB) Throughput: 0.208527 GiB/sec, Avg_Latency: 565.879423 usecs ops: 3704 total_time 0.271037 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 59632/65536(KiB) IOSize: 16(KiB) Throughput: 0.342982 GiB/sec, Avg_Latency: 671.531733 usecs ops: 3727 total_time 0.165809 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 59456/65536(KiB) IOSize: 16(KiB) Throughput: 0.394186 GiB/sec, Avg_Latency: 1149.132229 usecs ops: 3716 total_time 0.143845 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 52896/65536(KiB) IOSize: 16(KiB) Throughput: 0.317907 GiB/sec, Avg_Latency: 2884.819880 usecs ops: 3306 total_time 0.158680 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 40672/65536(KiB) IOSize: 16(KiB) Throughput: 0.150821 GiB/sec, Avg_Latency: 12129.879051 usecs ops: 2542 total_time 0.257178 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 36400/65536(KiB) IOSize: 16(KiB) Throughput: 0.068219 GiB/sec, Avg_Latency: 53411.113072 usecs ops: 2275 total_time 0.508858 secs
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 2(KiB) Throughput: 0.003509 GiB/sec, Avg_Latency: 543.231689 usecs ops: 32768 total_time 17.810335 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 64468/65536(KiB) IOSize: 2(KiB) Throughput: 0.006460 GiB/sec, Avg_Latency: 590.027724 usecs ops: 32234 total_time 9.517660 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 64706/65536(KiB) IOSize: 2(KiB) Throughput: 0.013064 GiB/sec, Avg_Latency: 582.819479 usecs ops: 32353 total_time 4.723480 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 64250/65536(KiB) IOSize: 2(KiB) Throughput: 0.025722 GiB/sec, Avg_Latency: 590.737947 usecs ops: 32125 total_time 2.382102 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 60188/65536(KiB) IOSize: 2(KiB) Throughput: 0.050574 GiB/sec, Avg_Latency: 597.959108 usecs ops: 30094 total_time 1.134975 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 61700/65536(KiB) IOSize: 2(KiB) Throughput: 0.060444 GiB/sec, Avg_Latency: 989.527065 usecs ops: 30850 total_time 0.973494 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 58472/65536(KiB) IOSize: 2(KiB) Throughput: 0.048384 GiB/sec, Avg_Latency: 2442.939306 usecs ops: 29236 total_time 1.152504 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 43960/65536(KiB) IOSize: 2(KiB) Throughput: 0.025464 GiB/sec, Avg_Latency: 9245.845913 usecs ops: 21980 total_time 1.646400 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 49974/65536(KiB) IOSize: 2(KiB) Throughput: 0.001568 GiB/sec, Avg_Latency: 311612.143983 usecs ops: 24987 total_time 30.403211 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 4(KiB) Throughput: 0.015699 GiB/sec, Avg_Latency: 242.426270 usecs ops: 16384 total_time 3.981104 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 61596/65536(KiB) IOSize: 4(KiB) Throughput: 0.021710 GiB/sec, Avg_Latency: 351.674023 usecs ops: 15399 total_time 2.705724 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 56032/65536(KiB) IOSize: 4(KiB) Throughput: 0.040183 GiB/sec, Avg_Latency: 380.478857 usecs ops: 14008 total_time 1.329822 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 63256/65536(KiB) IOSize: 4(KiB) Throughput: 0.057404 GiB/sec, Avg_Latency: 527.167676 usecs ops: 15814 total_time 1.050887 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 59108/65536(KiB) IOSize: 4(KiB) Throughput: 0.115592 GiB/sec, Avg_Latency: 519.212330 usecs ops: 14777 total_time 0.487663 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 61224/65536(KiB) IOSize: 4(KiB) Throughput: 0.125344 GiB/sec, Avg_Latency: 952.723490 usecs ops: 15306 total_time 0.465819 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 55916/65536(KiB) IOSize: 4(KiB) Throughput: 0.089346 GiB/sec, Avg_Latency: 2693.812594 usecs ops: 13979 total_time 0.596847 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 53036/65536(KiB) IOSize: 4(KiB) Throughput: 0.047988 GiB/sec, Avg_Latency: 10048.729593 usecs ops: 13259 total_time 1.053996 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 43628/65536(KiB) IOSize: 4(KiB) Throughput: 0.022856 GiB/sec, Avg_Latency: 42164.676243 usecs ops: 10907 total_time 1.820430 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 8(KiB) Throughput: 0.021546 GiB/sec, Avg_Latency: 352.981812 usecs ops: 8192 total_time 2.900837 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 61152/65536(KiB) IOSize: 8(KiB) Throughput: 0.040203 GiB/sec, Avg_Latency: 379.106899 usecs ops: 7644 total_time 1.450632 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 63104/65536(KiB) IOSize: 8(KiB) Throughput: 0.087148 GiB/sec, Avg_Latency: 345.793500 usecs ops: 7888 total_time 0.690556 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 63304/65536(KiB) IOSize: 8(KiB) Throughput: 0.182282 GiB/sec, Avg_Latency: 325.280315 usecs ops: 7913 total_time 0.331198 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 60360/65536(KiB) IOSize: 8(KiB) Throughput: 0.177258 GiB/sec, Avg_Latency: 669.407290 usecs ops: 7545 total_time 0.324746 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 58888/65536(KiB) IOSize: 8(KiB) Throughput: 0.213699 GiB/sec, Avg_Latency: 1099.666764 usecs ops: 7361 total_time 0.262800 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 49984/65536(KiB) IOSize: 8(KiB) Throughput: 0.156017 GiB/sec, Avg_Latency: 3052.705950 usecs ops: 6248 total_time 0.305534 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 48240/65536(KiB) IOSize: 8(KiB) Throughput: 0.089738 GiB/sec, Avg_Latency: 10660.480188 usecs ops: 6030 total_time 0.512662 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 43848/65536(KiB) IOSize: 8(KiB) Throughput: 0.044397 GiB/sec, Avg_Latency: 42967.520672 usecs ops: 5481 total_time 0.941884 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 16(KiB) Throughput: 0.029739 GiB/sec, Avg_Latency: 510.789795 usecs ops: 4096 total_time 2.101650 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 63456/65536(KiB) IOSize: 16(KiB) Throughput: 0.056222 GiB/sec, Avg_Latency: 538.689044 usecs ops: 3966 total_time 1.076380 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 62208/65536(KiB) IOSize: 16(KiB) Throughput: 0.102900 GiB/sec, Avg_Latency: 584.582977 usecs ops: 3888 total_time 0.576543 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 62288/65536(KiB) IOSize: 16(KiB) Throughput: 0.218998 GiB/sec, Avg_Latency: 538.812377 usecs ops: 3893 total_time 0.271246 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 52160/65536(KiB) IOSize: 16(KiB) Throughput: 0.312493 GiB/sec, Avg_Latency: 738.575286 usecs ops: 3260 total_time 0.159183 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 57904/65536(KiB) IOSize: 16(KiB) Throughput: 0.357160 GiB/sec, Avg_Latency: 1275.736747 usecs ops: 3619 total_time 0.154613 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 44736/65536(KiB) IOSize: 16(KiB) Throughput: 0.305141 GiB/sec, Avg_Latency: 3019.305859 usecs ops: 2796 total_time 0.139816 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 44848/65536(KiB) IOSize: 16(KiB) Throughput: 0.162011 GiB/sec, Avg_Latency: 11476.924873 usecs ops: 2803 total_time 0.263996 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 22800/65536(KiB) IOSize: 16(KiB) Throughput: 0.068385 GiB/sec, Avg_Latency: 55275.320090 usecs ops: 1425 total_time 0.317962 secs
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 2(KiB) Throughput: 0.003504 GiB/sec, Avg_Latency: 543.967682 usecs ops: 32768 total_time 17.834493 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 64268/65536(KiB) IOSize: 2(KiB) Throughput: 0.006956 GiB/sec, Avg_Latency: 547.990210 usecs ops: 32134 total_time 8.810963 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 64088/65536(KiB) IOSize: 2(KiB) Throughput: 0.013785 GiB/sec, Avg_Latency: 552.394570 usecs ops: 32044 total_time 4.433749 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 63976/65536(KiB) IOSize: 2(KiB) Throughput: 0.026937 GiB/sec, Avg_Latency: 564.131815 usecs ops: 31988 total_time 2.265005 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 61172/65536(KiB) IOSize: 2(KiB) Throughput: 0.048916 GiB/sec, Avg_Latency: 618.143944 usecs ops: 30586 total_time 1.192629 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 60858/65536(KiB) IOSize: 2(KiB) Throughput: 0.053440 GiB/sec, Avg_Latency: 1124.119323 usecs ops: 30429 total_time 1.086059 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 55494/65536(KiB) IOSize: 2(KiB) Throughput: 0.044353 GiB/sec, Avg_Latency: 2666.040898 usecs ops: 27747 total_time 1.193237 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 47292/65536(KiB) IOSize: 2(KiB) Throughput: 0.025372 GiB/sec, Avg_Latency: 9340.344613 usecs ops: 23646 total_time 1.777590 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 51330/65536(KiB) IOSize: 2(KiB) Throughput: 0.001542 GiB/sec, Avg_Latency: 316486.991180 usecs ops: 25665 total_time 31.739506 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 4(KiB) Throughput: 0.011126 GiB/sec, Avg_Latency: 342.312195 usecs ops: 16384 total_time 5.617638 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 61580/65536(KiB) IOSize: 4(KiB) Throughput: 0.021571 GiB/sec, Avg_Latency: 353.937527 usecs ops: 15395 total_time 2.722495 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 62460/65536(KiB) IOSize: 4(KiB) Throughput: 0.030477 GiB/sec, Avg_Latency: 498.901060 usecs ops: 15615 total_time 1.954454 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 62400/65536(KiB) IOSize: 4(KiB) Throughput: 0.052393 GiB/sec, Avg_Latency: 578.194778 usecs ops: 15600 total_time 1.135829 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 61420/65536(KiB) IOSize: 4(KiB) Throughput: 0.105316 GiB/sec, Avg_Latency: 570.051256 usecs ops: 15355 total_time 0.556181 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 59160/65536(KiB) IOSize: 4(KiB) Throughput: 0.105674 GiB/sec, Avg_Latency: 1135.401295 usecs ops: 14790 total_time 0.533898 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 54756/65536(KiB) IOSize: 4(KiB) Throughput: 0.089279 GiB/sec, Avg_Latency: 2697.413435 usecs ops: 13689 total_time 0.584903 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 51516/65536(KiB) IOSize: 4(KiB) Throughput: 0.047609 GiB/sec, Avg_Latency: 10145.626420 usecs ops: 12879 total_time 1.031936 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 42012/65536(KiB) IOSize: 4(KiB) Throughput: 0.022862 GiB/sec, Avg_Latency: 42297.127116 usecs ops: 10503 total_time 1.752472 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 8(KiB) Throughput: 0.019250 GiB/sec, Avg_Latency: 395.205933 usecs ops: 8192 total_time 3.246787 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 62152/65536(KiB) IOSize: 8(KiB) Throughput: 0.044039 GiB/sec, Avg_Latency: 345.161852 usecs ops: 7769 total_time 1.345923 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 58152/65536(KiB) IOSize: 8(KiB) Throughput: 0.098272 GiB/sec, Avg_Latency: 307.238374 usecs ops: 7269 total_time 0.564335 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 62616/65536(KiB) IOSize: 8(KiB) Throughput: 0.120115 GiB/sec, Avg_Latency: 499.587552 usecs ops: 7827 total_time 0.497151 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 60168/65536(KiB) IOSize: 8(KiB) Throughput: 0.252581 GiB/sec, Avg_Latency: 466.451681 usecs ops: 7521 total_time 0.227177 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 58800/65536(KiB) IOSize: 8(KiB) Throughput: 0.208884 GiB/sec, Avg_Latency: 1129.273669 usecs ops: 7350 total_time 0.268456 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 55856/65536(KiB) IOSize: 8(KiB) Throughput: 0.161123 GiB/sec, Avg_Latency: 2937.962375 usecs ops: 6982 total_time 0.330607 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 51616/65536(KiB) IOSize: 8(KiB) Throughput: 0.089075 GiB/sec, Avg_Latency: 10671.188131 usecs ops: 6452 total_time 0.552621 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 39616/65536(KiB) IOSize: 8(KiB) Throughput: 0.039844 GiB/sec, Avg_Latency: 47976.838874 usecs ops: 4952 total_time 0.948221 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 16(KiB) Throughput: 0.031535 GiB/sec, Avg_Latency: 481.625732 usecs ops: 4096 total_time 1.981953 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 63216/65536(KiB) IOSize: 16(KiB) Throughput: 0.056146 GiB/sec, Avg_Latency: 539.620358 usecs ops: 3951 total_time 1.073765 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 64752/65536(KiB) IOSize: 16(KiB) Throughput: 0.103961 GiB/sec, Avg_Latency: 578.153241 usecs ops: 4047 total_time 0.593993 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 60192/65536(KiB) IOSize: 16(KiB) Throughput: 0.195655 GiB/sec, Avg_Latency: 605.440040 usecs ops: 3762 total_time 0.293392 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 54000/65536(KiB) IOSize: 16(KiB) Throughput: 0.384842 GiB/sec, Avg_Latency: 593.347072 usecs ops: 3375 total_time 0.133817 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 57488/65536(KiB) IOSize: 16(KiB) Throughput: 0.405779 GiB/sec, Avg_Latency: 1116.396179 usecs ops: 3593 total_time 0.135110 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 51104/65536(KiB) IOSize: 16(KiB) Throughput: 0.294969 GiB/sec, Avg_Latency: 3117.378912 usecs ops: 3194 total_time 0.165226 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 44688/65536(KiB) IOSize: 16(KiB) Throughput: 0.162700 GiB/sec, Avg_Latency: 11310.865076 usecs ops: 2793 total_time 0.261941 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 35072/65536(KiB) IOSize: 16(KiB) Throughput: 0.071915 GiB/sec, Avg_Latency: 50379.873784 usecs ops: 2192 total_time 0.465092 secs
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+invalid argument for size:512,1K
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 2(KiB) Throughput: 0.003492 GiB/sec, Avg_Latency: 545.846130 usecs ops: 32768 total_time 17.896046 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 64066/65536(KiB) IOSize: 2(KiB) Throughput: 0.006513 GiB/sec, Avg_Latency: 585.377258 usecs ops: 32033 total_time 9.380712 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 62942/65536(KiB) IOSize: 2(KiB) Throughput: 0.013706 GiB/sec, Avg_Latency: 555.779343 usecs ops: 31471 total_time 4.379602 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 61590/65536(KiB) IOSize: 2(KiB) Throughput: 0.029100 GiB/sec, Avg_Latency: 522.189849 usecs ops: 30795 total_time 2.018459 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 54146/65536(KiB) IOSize: 2(KiB) Throughput: 0.053285 GiB/sec, Avg_Latency: 569.155399 usecs ops: 27073 total_time 0.969080 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 62072/65536(KiB) IOSize: 2(KiB) Throughput: 0.064463 GiB/sec, Avg_Latency: 927.885550 usecs ops: 31036 total_time 0.918299 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 58400/65536(KiB) IOSize: 2(KiB) Throughput: 0.047199 GiB/sec, Avg_Latency: 2505.611004 usecs ops: 29200 total_time 1.179997 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 50292/65536(KiB) IOSize: 2(KiB) Throughput: 0.025832 GiB/sec, Avg_Latency: 9171.107128 usecs ops: 25146 total_time 1.856713 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 49364/65536(KiB) IOSize: 2(KiB) Throughput: 0.001482 GiB/sec, Avg_Latency: 332991.777779 usecs ops: 24682 total_time 31.775168 secs
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 4(KiB) Throughput: 0.012438 GiB/sec, Avg_Latency: 306.143982 usecs ops: 16384 total_time 5.024871 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 62316/65536(KiB) IOSize: 4(KiB) Throughput: 0.020958 GiB/sec, Avg_Latency: 363.821200 usecs ops: 15579 total_time 2.835568 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 64548/65536(KiB) IOSize: 4(KiB) Throughput: 0.030598 GiB/sec, Avg_Latency: 496.438500 usecs ops: 16137 total_time 2.011818 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 63684/65536(KiB) IOSize: 4(KiB) Throughput: 0.065237 GiB/sec, Avg_Latency: 463.401698 usecs ops: 15921 total_time 0.930965 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 58760/65536(KiB) IOSize: 4(KiB) Throughput: 0.111352 GiB/sec, Avg_Latency: 539.692333 usecs ops: 14690 total_time 0.503248 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 61940/65536(KiB) IOSize: 4(KiB) Throughput: 0.123706 GiB/sec, Avg_Latency: 966.097967 usecs ops: 15485 total_time 0.477507 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 51148/65536(KiB) IOSize: 4(KiB) Throughput: 0.094629 GiB/sec, Avg_Latency: 2530.876805 usecs ops: 12787 total_time 0.515473 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 50620/65536(KiB) IOSize: 4(KiB) Throughput: 0.047618 GiB/sec, Avg_Latency: 10158.916302 usecs ops: 12655 total_time 1.013791 secs
+IoType: READ XferType: GPUD Threads: 256 DataSetSize: 43712/65536(KiB) IOSize: 4(KiB) Throughput: 0.023320 GiB/sec, Avg_Latency: 41176.765275 usecs ops: 10928 total_time 1.787618 secs
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 61799/65536(KiB) IOSize: 0(KiB) Throughput: 0.012282 GiB/sec, Avg_Latency: 2439.585613 usecs ops: 123598 total_time 4.798764 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 63728/65536(KiB) IOSize: 0(KiB) Throughput: 0.003444 GiB/sec, Avg_Latency: 552.312631 usecs ops: 127457 total_time 17.647204 secs
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+invalid argument for size:512B,1K
+IoType: READ XferType: GPUD Threads: 1 DataSetSize: 65536/65536(KiB) IOSize: 2(KiB) Throughput: 0.003548 GiB/sec, Avg_Latency: 537.205994 usecs ops: 32768 total_time 17.614178 secs
+IoType: READ XferType: GPUD Threads: 2 DataSetSize: 64660/65536(KiB) IOSize: 2(KiB) Throughput: 0.006690 GiB/sec, Avg_Latency: 569.084176 usecs ops: 32330 total_time 9.217425 secs
+IoType: READ XferType: GPUD Threads: 4 DataSetSize: 64468/65536(KiB) IOSize: 2(KiB) Throughput: 0.013743 GiB/sec, Avg_Latency: 551.849524 usecs ops: 32234 total_time 4.473731 secs
+IoType: READ XferType: GPUD Threads: 8 DataSetSize: 62586/65536(KiB) IOSize: 2(KiB) Throughput: 0.025435 GiB/sec, Avg_Latency: 589.053165 usecs ops: 31293 total_time 2.346642 secs
+IoType: READ XferType: GPUD Threads: 16 DataSetSize: 57842/65536(KiB) IOSize: 2(KiB) Throughput: 0.051917 GiB/sec, Avg_Latency: 572.663269 usecs ops: 28921 total_time 1.062502 secs
+IoType: READ XferType: GPUD Threads: 32 DataSetSize: 60510/65536(KiB) IOSize: 2(KiB) Throughput: 0.065900 GiB/sec, Avg_Latency: 904.286557 usecs ops: 30255 total_time 0.875668 secs
+IoType: READ XferType: GPUD Threads: 64 DataSetSize: 58292/65536(KiB) IOSize: 2(KiB) Throughput: 0.048785 GiB/sec, Avg_Latency: 2425.438527 usecs ops: 29146 total_time 1.139511 secs
+IoType: READ XferType: GPUD Threads: 128 DataSetSize: 48612/65536(KiB) IOSize: 2(KiB) Throughput: 0.026046 GiB/sec, Avg_Latency: 9036.773551 usecs ops: 24306 total_time 1.779947 secs

@@ -1,0 +1,1 @@
+batch_size,worker_num,prefetch_factor,epoch,total_time,data_time,training_time,data_todevice_time

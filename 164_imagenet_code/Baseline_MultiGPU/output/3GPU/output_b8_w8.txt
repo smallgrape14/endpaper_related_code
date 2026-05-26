@@ -1,0 +1,458 @@
+Use GPU: 2 for training
+=> creating model 'resnet18'
+worker_num : 6
+@@ 非dummy数据集加载
+Use GPU: 1 for training
+=> creating model 'resnet18'
+worker_num : 6
+@@ 非dummy数据集加载
+Use GPU: 0 for training
+=> creating model 'resnet18'
+worker_num : 6
+@@ 非dummy数据集加载
+ 0 th batch,total_time: 15.214860(15.214860),data_time: 14.667952(14.667952),train_time: 0.546908(0.546908)
+ 1 th batch,total_time: 0.120333(7.667596),data_time: 0.036647(7.352299),train_time: 0.083686(0.315297)
+ 2 th batch,total_time: 0.109552(5.148248),data_time: 0.059385(4.921328),train_time: 0.050168(0.226920)
+ 3 th batch,total_time: 0.116940(3.890421),data_time: 0.063883(3.706967),train_time: 0.053056(0.183454)
+ 4 th batch,total_time: 0.099080(3.132153),data_time: 0.053158(2.976205),train_time: 0.045922(0.155948)
+Collecting data...
+Generating '/tmp/nsys-report-921f.qdstrm'
+[1/9] [0%                          ] nvtx_b8_w8.nsys-rep[1/9] [0%                          ] nvtx_b8_w8.nsys-rep[1/9] [8%                          ] nvtx_b8_w8.nsys-rep[1/9] [=17%                        ] nvtx_b8_w8.nsys-rep[1/9] [==18%                       ] nvtx_b8_w8.nsys-rep[1/9] [==20%                       ] nvtx_b8_w8.nsys-rep[1/9] [==21%                       ] nvtx_b8_w8.nsys-rep[1/9] [=======================94%  ] nvtx_b8_w8.nsys-rep[1/9] [========================100%] nvtx_b8_w8.nsys-rep[1/9] [6%                          ] nvtx_b8_w8.nsys-rep[1/9] [0%                          ] nvtx_b8_w8.nsys-rep[1/9] [0%                          ] nvtx_b8_w8.nsys-rep[1/9] [=======37%                  ] nvtx_b8_w8.nsys-rep[1/9] [======33%                   ] nvtx_b8_w8.nsys-rep[1/9] [=====32%                    ] nvtx_b8_w8.nsys-rep[1/9] [=====31%                    ] nvtx_b8_w8.nsys-rep[1/9] [=====30%                    ] nvtx_b8_w8.nsys-rep[1/9] [=====32%                    ] nvtx_b8_w8.nsys-rep[1/9] [======33%                   ] nvtx_b8_w8.nsys-rep[1/9] [=====32%                    ] nvtx_b8_w8.nsys-rep[1/9] [======33%                   ] nvtx_b8_w8.nsys-rep[1/9] [======34%                   ] nvtx_b8_w8.nsys-rep[1/9] [======33%                   ] nvtx_b8_w8.nsys-rep[1/9] [=====32%                    ] nvtx_b8_w8.nsys-rep[1/9] [======35%                   ] nvtx_b8_w8.nsys-rep[1/9] [====28%                     ] nvtx_b8_w8.nsys-rep[1/9] [====27%                     ] nvtx_b8_w8.nsys-rep[1/9] [====26%                     ] nvtx_b8_w8.nsys-rep[1/9] [====25%                     ] nvtx_b8_w8.nsys-rep[1/9] [===24%                      ] nvtx_b8_w8.nsys-rep[1/9] [===========51%              ] nvtx_b8_w8.nsys-rep[1/9] [============56%             ] nvtx_b8_w8.nsys-rep[1/9] [============57%             ] nvtx_b8_w8.nsys-rep[1/9] [=============58%            ] nvtx_b8_w8.nsys-rep[1/9] [========42%                 ] nvtx_b8_w8.nsys-rep[1/9] [=========43%                ] nvtx_b8_w8.nsys-rep[1/9] [=========44%                ] nvtx_b8_w8.nsys-rep[1/9] [=========46%                ] nvtx_b8_w8.nsys-rep[1/9] [==========47%               ] nvtx_b8_w8.nsys-rep[1/9] [==========48%               ] nvtx_b8_w8.nsys-rep[1/9] [==========49%               ] nvtx_b8_w8.nsys-rep[1/9] [========41%                 ] nvtx_b8_w8.nsys-rep[1/9] [========40%                 ] nvtx_b8_w8.nsys-rep[1/9] [=======39%                  ] nvtx_b8_w8.nsys-rep[1/9] [===========50%              ] nvtx_b8_w8.nsys-rep[1/9] [===========51%              ] nvtx_b8_w8.nsys-rep[1/9] [===========52%              ] nvtx_b8_w8.nsys-rep[1/9] [===========53%              ] nvtx_b8_w8.nsys-rep[1/9] [========40%                 ] nvtx_b8_w8.nsys-rep[1/9] [========41%                 ] nvtx_b8_w8.nsys-rep[1/9] [=========43%                ] nvtx_b8_w8.nsys-rep[1/9] [=======39%                  ] nvtx_b8_w8.nsys-rep[1/9] [=======38%                  ] nvtx_b8_w8.nsys-rep[1/9] [=====31%                    ] nvtx_b8_w8.nsys-rep[1/9] [=========43%                ] nvtx_b8_w8.nsys-rep[1/9] [========42%                 ] nvtx_b8_w8.nsys-rep[1/9] [========41%                 ] nvtx_b8_w8.nsys-rep[1/9] [========40%                 ] nvtx_b8_w8.nsys-rep[1/9] [=======39%                  ] nvtx_b8_w8.nsys-rep[1/9] [=======38%                  ] nvtx_b8_w8.nsys-rep[1/9] [=======37%                  ] nvtx_b8_w8.nsys-rep[1/9] [=======36%                  ] nvtx_b8_w8.nsys-rep[1/9] [======35%                   ] nvtx_b8_w8.nsys-rep[1/9] [======34%                   ] nvtx_b8_w8.nsys-rep[1/9] [======33%                   ] nvtx_b8_w8.nsys-rep[1/9] [=====32%                    ] nvtx_b8_w8.nsys-rep[1/9] [======33%                   ] nvtx_b8_w8.nsys-rep[1/9] [======34%                   ] nvtx_b8_w8.nsys-rep[1/9] [======35%                   ] nvtx_b8_w8.nsys-rep[1/9] [=======36%                  ] nvtx_b8_w8.nsys-rep[1/9] [=======37%                  ] nvtx_b8_w8.nsys-rep[1/9] [=======38%                  ] nvtx_b8_w8.nsys-rep[1/9] [=======39%                  ] nvtx_b8_w8.nsys-rep[1/9] [========40%                 ] nvtx_b8_w8.nsys-rep[1/9] [========41%                 ] nvtx_b8_w8.nsys-rep[1/9] [==========47%               ] nvtx_b8_w8.nsys-rep[1/9] [==========49%               ] nvtx_b8_w8.nsys-rep[1/9] [==============62%           ] nvtx_b8_w8.nsys-rep[1/9] [===============67%          ] nvtx_b8_w8.nsys-rep[1/9] [================68%         ] nvtx_b8_w8.nsys-rep[1/9] [===================82%      ] nvtx_b8_w8.nsys-rep[1/9] [====================85%     ] nvtx_b8_w8.nsys-rep[1/9] [=====================86%    ] nvtx_b8_w8.nsys-rep[1/9] [=====================87%    ] nvtx_b8_w8.nsys-rep[1/9] [=====================88%    ] nvtx_b8_w8.nsys-rep[1/9] [=====================89%    ] nvtx_b8_w8.nsys-rep[1/9] [======================90%   ] nvtx_b8_w8.nsys-rep[1/9] [======================91%   ] nvtx_b8_w8.nsys-rep[1/9] [======================92%   ] nvtx_b8_w8.nsys-rep[1/9] [=======================93%  ] nvtx_b8_w8.nsys-rep[1/9] [=======================94%  ] nvtx_b8_w8.nsys-rep[1/9] [=======================95%  ] nvtx_b8_w8.nsys-rep[1/9] [=======================96%  ] nvtx_b8_w8.nsys-rep[1/9] [========================97% ] nvtx_b8_w8.nsys-rep[1/9] [========================98% ] nvtx_b8_w8.nsys-rep[1/9] [========================99% ] nvtx_b8_w8.nsys-rep[1/9] [========================100%] nvtx_b8_w8.nsys-rep[1/9] [========================100%] nvtx_b8_w8.nsys-rep
+[2/9] [0%                          ] nvtx_b8_w8.sqlite[2/9] [1%                          ] nvtx_b8_w8.sqlite[2/9] [2%                          ] nvtx_b8_w8.sqlite[2/9] [3%                          ] nvtx_b8_w8.sqlite[2/9] [4%                          ] nvtx_b8_w8.sqlite[2/9] [5%                          ] nvtx_b8_w8.sqlite[2/9] [6%                          ] nvtx_b8_w8.sqlite[2/9] [7%                          ] nvtx_b8_w8.sqlite[2/9] [8%                          ] nvtx_b8_w8.sqlite[2/9] [9%                          ] nvtx_b8_w8.sqlite[2/9] [10%                         ] nvtx_b8_w8.sqlite[2/9] [11%                         ] nvtx_b8_w8.sqlite[2/9] [12%                         ] nvtx_b8_w8.sqlite[2/9] [13%                         ] nvtx_b8_w8.sqlite[2/9] [14%                         ] nvtx_b8_w8.sqlite[2/9] [=15%                        ] nvtx_b8_w8.sqlite[2/9] [=16%                        ] nvtx_b8_w8.sqlite[2/9] [=17%                        ] nvtx_b8_w8.sqlite[2/9] [==18%                       ] nvtx_b8_w8.sqlite[2/9] [==19%                       ] nvtx_b8_w8.sqlite[2/9] [==20%                       ] nvtx_b8_w8.sqlite[2/9] [==21%                       ] nvtx_b8_w8.sqlite[2/9] [===22%                      ] nvtx_b8_w8.sqlite[2/9] [===23%                      ] nvtx_b8_w8.sqlite[2/9] [===24%                      ] nvtx_b8_w8.sqlite[2/9] [====25%                     ] nvtx_b8_w8.sqlite[2/9] [====26%                     ] nvtx_b8_w8.sqlite[2/9] [====27%                     ] nvtx_b8_w8.sqlite[2/9] [====28%                     ] nvtx_b8_w8.sqlite[2/9] [=====29%                    ] nvtx_b8_w8.sqlite[2/9] [=====30%                    ] nvtx_b8_w8.sqlite[2/9] [=====31%                    ] nvtx_b8_w8.sqlite[2/9] [=====32%                    ] nvtx_b8_w8.sqlite[2/9] [======33%                   ] nvtx_b8_w8.sqlite[2/9] [======34%                   ] nvtx_b8_w8.sqlite[2/9] [======35%                   ] nvtx_b8_w8.sqlite[2/9] [=======36%                  ] nvtx_b8_w8.sqlite[2/9] [=======37%                  ] nvtx_b8_w8.sqlite[2/9] [=======38%                  ] nvtx_b8_w8.sqlite[2/9] [=======39%                  ] nvtx_b8_w8.sqlite[2/9] [========40%                 ] nvtx_b8_w8.sqlite[2/9] [========41%                 ] nvtx_b8_w8.sqlite[2/9] [========42%                 ] nvtx_b8_w8.sqlite[2/9] [=========43%                ] nvtx_b8_w8.sqlite[2/9] [=========44%                ] nvtx_b8_w8.sqlite[2/9] [=========45%                ] nvtx_b8_w8.sqlite[2/9] [=========46%                ] nvtx_b8_w8.sqlite[2/9] [==========47%               ] nvtx_b8_w8.sqlite[2/9] [==========48%               ] nvtx_b8_w8.sqlite[2/9] [==========49%               ] nvtx_b8_w8.sqlite[2/9] [===========50%              ] nvtx_b8_w8.sqlite[2/9] [===========51%              ] nvtx_b8_w8.sqlite[2/9] [===========52%              ] nvtx_b8_w8.sqlite[2/9] [===========53%              ] nvtx_b8_w8.sqlite[2/9] [============54%             ] nvtx_b8_w8.sqlite[2/9] [============55%             ] nvtx_b8_w8.sqlite[2/9] [============56%             ] nvtx_b8_w8.sqlite[2/9] [============57%             ] nvtx_b8_w8.sqlite[2/9] [=============58%            ] nvtx_b8_w8.sqlite[2/9] [=============59%            ] nvtx_b8_w8.sqlite[2/9] [=============60%            ] nvtx_b8_w8.sqlite[2/9] [==============61%           ] nvtx_b8_w8.sqlite[2/9] [==============62%           ] nvtx_b8_w8.sqlite[2/9] [==============63%           ] nvtx_b8_w8.sqlite[2/9] [==============64%           ] nvtx_b8_w8.sqlite[2/9] [===============65%          ] nvtx_b8_w8.sqlite[2/9] [===============66%          ] nvtx_b8_w8.sqlite[2/9] [===============67%          ] nvtx_b8_w8.sqlite[2/9] [================68%         ] nvtx_b8_w8.sqlite[2/9] [================69%         ] nvtx_b8_w8.sqlite[2/9] [================70%         ] nvtx_b8_w8.sqlite[2/9] [================71%         ] nvtx_b8_w8.sqlite[2/9] [=================72%        ] nvtx_b8_w8.sqlite[2/9] [=================73%        ] nvtx_b8_w8.sqlite[2/9] [=================74%        ] nvtx_b8_w8.sqlite[2/9] [==================75%       ] nvtx_b8_w8.sqlite[2/9] [==================76%       ] nvtx_b8_w8.sqlite[2/9] [==================77%       ] nvtx_b8_w8.sqlite[2/9] [==================78%       ] nvtx_b8_w8.sqlite[2/9] [===================79%      ] nvtx_b8_w8.sqlite[2/9] [===================80%      ] nvtx_b8_w8.sqlite[2/9] [===================81%      ] nvtx_b8_w8.sqlite[2/9] [===================82%      ] nvtx_b8_w8.sqlite[2/9] [====================83%     ] nvtx_b8_w8.sqlite[2/9] [====================84%     ] nvtx_b8_w8.sqlite[2/9] [====================85%     ] nvtx_b8_w8.sqlite[2/9] [=====================86%    ] nvtx_b8_w8.sqlite[2/9] [=====================87%    ] nvtx_b8_w8.sqlite[2/9] [=====================88%    ] nvtx_b8_w8.sqlite[2/9] [=====================89%    ] nvtx_b8_w8.sqlite[2/9] [======================90%   ] nvtx_b8_w8.sqlite[2/9] [======================91%   ] nvtx_b8_w8.sqlite[2/9] [======================92%   ] nvtx_b8_w8.sqlite[2/9] [=======================93%  ] nvtx_b8_w8.sqlite[2/9] [=======================94%  ] nvtx_b8_w8.sqlite[2/9] [=======================95%  ] nvtx_b8_w8.sqlite[2/9] [=======================96%  ] nvtx_b8_w8.sqlite[2/9] [========================97% ] nvtx_b8_w8.sqlite[2/9] [========================98% ] nvtx_b8_w8.sqlite[2/9] [========================99% ] nvtx_b8_w8.sqlite[2/9] [========================100%] nvtx_b8_w8.sqlite[2/9] [========================100%] nvtx_b8_w8.sqlite
+[3/9] Executing 'nvtx_sum' stats report
+
+ Time (%)  Total Time (ns)  Instances      Avg (ns)          Med (ns)         Min (ns)        Max (ns)       StdDev (ns)     Style              Range           
+ --------  ---------------  ---------  ----------------  ----------------  --------------  --------------  ---------------  -------  ---------------------------
+     49.3   47,011,512,318          3  15,670,504,106.0  15,667,352,942.0  15,661,954,978  15,682,204,398     10,486,044.5  PushPop  :iterate dataloader        
+     47.0   44,842,646,147         15   2,989,509,743.1      59,990,569.0      36,215,544  14,780,995,482  6,070,928,899.6  PushPop  :enumerate_batch           
+      1.4    1,369,060,161          3     456,353,387.0     455,856,803.0     455,826,744     457,376,614        886,268.0  PushPop  NCCL:ncclCommInitRankConfig
+      1.0      961,465,642         15      64,097,709.5      19,840,651.0      16,657,147     259,236,623     91,271,169.7  PushPop  :model                     
+      0.5      517,473,617         15      34,498,241.1      21,555,918.0      19,794,754      97,789,891     27,541,799.0  PushPop  :loss                      
+      0.4      345,071,050         15      23,004,736.7       4,140,674.0       2,298,496     124,016,613     33,178,300.8  PushPop  :optimizer_step            
+      0.3      265,524,663         15      17,701,644.2       1,149,432.0         804,324      84,987,035     34,322,959.6  PushPop  :accuracy                  
+      0.1       56,248,709         15       3,749,913.9         281,569.0         193,770      17,902,803      7,177,276.3  PushPop  :criterion                 
+      0.0       11,659,317         15         777,287.8         821,608.0         378,321       1,085,309        218,750.9  PushPop  :cpu_to_gpu                
+      0.0        5,692,938         15         379,529.2         380,654.0         268,158         486,688         67,688.5  PushPop  :optimizer                 
+      0.0        3,685,399         45          81,897.8          78,544.0          17,050         188,481         38,900.4  PushPop  NCCL:ncclBroadcast         
+      0.0        2,967,696         39          76,094.8          72,367.0          43,378         145,317         20,403.6  PushPop  NCCL:ncclAllReduce         
+      0.0          365,422          3         121,807.3         113,643.0         112,528         139,251         15,116.9  PushPop  NCCL:ncclAllGather         
+
+[4/9] Executing 'osrt_sum' stats report
+
+ Time (%)  Total Time (ns)  Num Calls    Avg (ns)       Med (ns)      Min (ns)      Max (ns)       StdDev (ns)             Name         
+ --------  ---------------  ---------  -------------  -------------  ----------  --------------  ---------------  ----------------------
+     42.9  304,794,816,231      1,239  246,000,658.8  100,218,363.0       1,259  21,412,870,667    858,408,804.3  poll                  
+     17.8  126,870,858,467        514  246,830,463.9   39,785,898.0       6,813  22,048,571,553  1,649,399,155.2  sem_wait              
+     15.9  112,824,479,636      1,434   78,678,158.7   70,296,105.5      15,876   1,725,705,680    116,409,705.2  pthread_cond_wait     
+      8.1   57,707,065,668      2,669   21,621,231.0      385,739.0       2,199     107,907,566     39,994,178.9  pthread_cond_timedwait
+      6.0   42,923,437,883      2,468   17,391,992.7        5,838.0       1,004   2,750,208,567    203,298,715.6  write                 
+      3.5   24,536,471,524     60,770      403,759.6        3,242.0         999   4,307,019,370     32,325,380.4  read                  
+      2.4   16,789,649,183        216   77,729,857.3    1,089,559.0      13,371     634,145,763    154,349,453.3  accept4               
+      1.2    8,274,474,515        504   16,417,608.2   14,570,744.0       1,107      65,126,779     13,322,002.0  futex                 
+      0.6    4,129,191,002        637    6,482,246.5       57,340.0       1,152      56,610,018     13,213,385.4  pthread_mutex_lock    
+      0.2    1,337,107,444      6,725      198,826.4       17,991.0       1,002      55,962,793      1,931,417.3  ioctl                 
+      0.2    1,297,299,991     19,910       65,158.2       65,364.0       7,167       2,882,921         20,314.4  usleep                
+      0.2    1,154,953,419         44   26,248,941.3   25,387,598.5  11,981,861      41,301,128      7,681,447.4  fork                  
+      0.2    1,080,529,622         18   60,029,423.4      354,926.5       1,855     953,557,231    223,524,706.9  epoll_wait            
+      0.1      918,113,228        126    7,286,612.9    1,507,072.0      67,143      46,357,229     12,681,099.4  sem_timedwait         
+      0.1      833,035,324      2,605      319,783.2       21,989.0       2,127      23,088,273      1,696,768.3  pthread_join          
+      0.1      724,914,761     49,535       14,634.4        3,325.0       1,245      53,053,010        348,407.7  open64                
+      0.1      706,100,261        656    1,076,372.3    1,059,258.5       1,909      82,319,185      3,223,453.1  fread                 
+      0.1      608,100,873      1,782      341,246.3       77,091.0      11,628      12,021,551      1,615,052.3  sleep                 
+      0.1      563,228,615      1,412      398,887.1      249,596.5      98,097      26,795,210      1,175,316.1  pthread_create        
+      0.1      499,124,179        481    1,037,680.2        5,288.0       1,258      20,065,412      4,235,585.3  fopen                 
+      0.1      488,263,222     56,354        8,664.2        1,931.0         999     276,740,111      1,188,635.5  accept                
+      0.0      354,552,500        408      869,001.2       20,241.0       1,341      23,988,420      3,884,868.6  open                  
+      0.0      280,261,690         91    3,079,798.8       12,549.0       1,051      92,344,179     12,981,244.9  waitpid               
+      0.0      254,500,491      1,851      137,493.5       27,511.0       1,125      13,893,812        622,066.6  mmap                  
+      0.0      222,914,195     11,564       19,276.6        2,179.0       1,158       2,931,826        126,797.0  munmap                
+      0.0      158,305,137     16,113        9,824.7        4,146.0       1,000      16,105,858        154,400.3  mmap64                
+      0.0      119,181,955        143      833,440.2       10,269.0       2,416      69,705,755      6,454,182.0  pipe2                 
+      0.0       97,738,541      4,546       21,499.9       15,005.0       1,003         131,203         19,704.3  fgets                 
+      0.0       83,722,287         15    5,581,485.8    5,108,902.0   1,068,887      10,144,287      2,624,188.7  nanosleep             
+      0.0       50,563,697     15,384        3,286.8        2,638.0       1,000       5,170,659         42,848.1  recv                  
+      0.0       50,461,570         23    2,193,981.3    2,949,417.0       5,028       6,628,298      2,123,421.2  fallocate             
+      0.0       33,446,759      3,748        8,923.9        3,387.0       1,000         347,499         24,874.3  pthread_cond_signal   
+      0.0       22,253,351        231       96,334.9       79,800.0       1,016         390,082         73,514.5  recvmsg               
+      0.0       10,009,115        606       16,516.7       17,517.0       1,015          58,599          9,026.4  sigaction             
+      0.0        6,430,624        255       25,218.1       17,526.0       6,868         256,856         28,449.0  connect               
+      0.0        5,905,739        971        6,082.1        5,447.0       1,004         246,537          9,302.9  fclose                
+      0.0        4,605,791      1,199        3,841.4        3,052.0       1,010          42,693          3,089.8  fcntl64               
+      0.0        3,992,973        368       10,850.5        6,476.0       2,434          87,988         11,995.0  send                  
+      0.0        3,251,141        297       10,946.6       10,782.0       2,957          31,891          4,146.7  socket                
+      0.0        2,653,135        228       11,636.6       11,878.0       2,393          51,719          4,745.6  sendmsg               
+      0.0        1,554,306         75       20,724.1        1,941.0       1,020         876,439        102,692.3  fflush                
+      0.0        1,181,197         68       17,370.5       12,099.5       2,414          94,156         17,815.8  shutdown              
+      0.0          783,693        246        3,185.7        1,523.5       1,009          25,129          5,447.1  dup                   
+      0.0          553,269         48       11,526.4        7,678.0       1,725          35,761         10,197.3  fopen64               
+      0.0          455,322         41       11,105.4        9,893.0       1,057          26,862          8,563.9  bind                  
+      0.0          339,677         22       15,439.9        8,562.5       6,098          50,984         14,404.7  fputs_unlocked        
+      0.0          318,410        202        1,576.3        1,494.0       1,002           4,247            486.2  fcntl                 
+      0.0          259,268         34        7,625.5        7,272.5       1,050          13,033          2,911.4  prctl                 
+      0.0          258,501        104        2,485.6        2,381.0       1,011           6,686          1,062.1  waitid                
+      0.0          213,029         16       13,314.3       12,217.0       1,044          40,303         10,527.4  pthread_cond_broadcast
+      0.0           78,341         21        3,730.5        2,872.0       1,727          11,231          2,397.6  epoll_ctl             
+      0.0           76,289         33        2,311.8        2,058.0       1,052           4,335            909.9  listen                
+      0.0           42,866          1       42,866.0       42,866.0      42,866          42,866              0.0  pthread_rwlock_wrlock 
+      0.0           28,379          7        4,054.1        4,012.0       2,840           5,543          1,016.5  fwrite                
+      0.0            9,367          5        1,873.4        1,677.0       1,481           2,680            491.9  pthread_mutex_trylock 
+
+[5/9] Executing 'cuda_api_sum' stats report
+
+ Time (%)  Total Time (ns)  Num Calls   Avg (ns)     Med (ns)    Min (ns)   Max (ns)    StdDev (ns)                     Name                   
+ --------  ---------------  ---------  -----------  -----------  --------  -----------  -----------  ------------------------------------------
+     69.7    1,076,867,140      5,340    201,660.5     13,694.0     2,907  119,641,311  2,410,679.4  cudaLaunchKernel                          
+      8.3      128,297,368         54  2,375,877.2    124,906.0    15,790   28,719,013  4,883,250.0  cudaHostAlloc                             
+      5.0       77,534,963      2,879     26,931.2     11,117.0     3,449    4,339,877    177,914.4  cudaMemcpyAsync                           
+      4.2       65,637,487         40  1,640,937.2  1,041,895.5   132,933    7,852,751  1,801,779.4  cudaHostRegister                          
+      2.6       40,771,053         18  2,265,058.5     23,712.5       702   13,066,638  4,357,618.4  cudaFree                                  
+      2.6       39,730,470         99    401,317.9    152,928.0     4,507    6,212,995    874,519.3  cudaMalloc                                
+      2.3       35,292,873         45    784,286.1    206,866.0    31,585    8,484,695  1,821,526.0  cuLibraryUnload                           
+      2.2       34,115,467        384     88,842.4      7,255.5     4,989    5,062,900    463,357.1  cudaStreamCreateWithPriority              
+      0.6        9,933,447      2,403      4,133.8      3,598.0       523       66,546      4,071.5  cudaEventRecord                           
+      0.5        7,744,395        429     18,052.2      5,800.0     2,579    1,613,169     85,926.2  cudaStreamSynchronize                     
+      0.4        5,509,012         24    229,542.2    216,961.5    67,640      407,204     86,629.2  cuMemSetAccess                            
+      0.2        3,024,865        222     13,625.5     10,580.5       174       87,522     15,221.5  cudaMemsetAsync                           
+      0.2        2,945,939        102     28,881.8      8,785.0     2,158      426,858     69,685.7  cudaStreamCreateWithFlags                 
+      0.2        2,830,109      1,947      1,453.6      1,312.0       238       39,898      1,812.4  cudaStreamIsCapturing_v10000              
+      0.2        2,506,982      7,206        347.9        225.5        80       46,200        869.0  cuGetProcAddress_v2                       
+      0.2        2,479,230         24    103,301.3     79,890.5    30,332      305,859     73,269.0  cuMemCreate                               
+      0.1        2,243,183         87     25,783.7     21,727.0     6,725       69,880     12,950.3  cudaLaunchKernelExC_v11060                
+      0.1        1,980,018         24     82,500.8     72,984.0    26,345      207,253     50,817.3  cuMemMap                                  
+      0.1        1,649,312        189      8,726.5      4,195.0     1,196       51,890      8,998.2  cudaEventQuery                            
+      0.1        1,362,015        366      3,721.4      3,042.0       459       21,462      2,491.1  cudaStreamWaitEvent                       
+      0.1        1,028,988        333      3,090.1      2,241.0       272       44,288      3,387.0  cudaEventCreateWithFlags                  
+      0.0          754,731        189      3,993.3      2,716.0       648       71,941      6,266.8  cudaEventDestroy                          
+      0.0          568,663         96      5,923.6      3,969.0     1,796       42,054      5,586.2  cudaEventSynchronize                      
+      0.0          290,611         87      3,340.4      3,136.0       594        7,945      1,263.0  cudaStreamGetCaptureInfo_v2_v11030        
+      0.0          142,928        114      1,253.8        591.5       179       13,511      2,157.4  cudaThreadExchangeStreamCaptureMode_v10010
+      0.0          136,116         24      5,671.5      3,835.0     1,404       14,819      4,293.2  cuMemAddressReserve                       
+      0.0           79,768         87        916.9        941.0       368        2,395        332.1  cuGetProcAddress                          
+      0.0           69,181         21      3,294.3      1,884.0     1,245       13,999      3,237.6  cuInit                                    
+      0.0           18,972         24        790.5        457.5       137        2,457        714.3  cuMemGetAllocationGranularity             
+      0.0           10,524         22        478.4        310.5        94        1,745        485.1  cuModuleGetLoadingMode                    
+
+[6/9] Executing 'cuda_gpu_kern_sum' stats report
+
+ Time (%)  Total Time (ns)  Instances    Avg (ns)     Med (ns)    Min (ns)   Max (ns)    StdDev (ns)                                                   Name                                                
+ --------  ---------------  ---------  ------------  -----------  --------  -----------  ------------  ----------------------------------------------------------------------------------------------------
+     76.1      507,904,315         39  13,023,187.6  7,975,538.0   347,449  120,948,681  20,704,590.2  ncclDevKernel_AllReduce_Sum_f32_RING_LL(ncclDevComm *, unsigned long, ncclWork *)                   
+      4.6       30,537,334        345      88,514.0     75,423.0    63,454      224,699      25,981.8  _5x_cudnn_volta_scudnn_winograd_128x128_ldg1_ldg4_relu_tile148t_nt_v1                               
+      2.2       14,846,178         45     329,915.1     10,624.0     6,016    5,352,165   1,198,787.1  ncclDevKernel_Broadcast_RING_LL(ncclDevComm *, unsigned long, ncclWork *)                           
+      2.0       13,148,426        120     109,570.2    114,703.5    28,448      182,783      57,090.1  void cudnn::detail::dgrad_engine<float, (int)512, (int)6, (int)5, (int)3, (int)3, (int)3, (bool)0>(…
+      1.2        8,293,668        135      61,434.6     62,687.0    43,871       77,439       9,004.2  volta_sgemm_64x64_nt                                                                                
+      0.9        6,016,163         75      80,215.5     97,246.0     6,815      102,656      35,971.1  volta_sgemm_128x32_nt                                                                               
+      0.8        5,437,503        990       5,492.4      4,321.0     1,311       39,360       6,148.4  void at::native::vectorized_elementwise_kernel<(int)4, at::native::AUnaryFunctor<float, float, floa…
+      0.7        4,966,805         45     110,373.4     76,063.0    29,504      253,023      76,479.2  void wgrad_alg0_engine<float, (int)128, (int)5, (int)5, (int)3, (int)3, (int)3, (bool)0, (int)512>(…
+      0.7        4,936,764        195      25,316.7     10,048.0     4,000       73,184      25,486.6  void cudnn::winograd_nonfused::winogradWgradOutput4x4<float, float>(cudnn::winograd_nonfused::Winog…
+      0.7        4,787,315         27     177,308.0    177,084.0   174,175      182,747       2,275.2  void at::native::<unnamed>::multi_tensor_apply_kernel<at::native::<unnamed>::TensorListMetadata<(in…
+      0.6        4,125,619          3   1,375,206.3  1,455,232.0    14,912    2,655,475   1,322,099.2  ncclDevKernel_AllGather_RING_LL(ncclDevComm *, unsigned long, ncclWork *)                           
+      0.6        4,010,299        345      11,624.1      6,592.0     2,944       71,871      11,611.0  void cudnn::winograd::generateWinogradTilesKernel<(int)0, float, float>(cudnn::winograd::GenerateWi…
+      0.6        4,003,578        225      17,793.7     16,095.0    11,487       67,743       6,831.0  void cudnn::bn_bw_1C11_singleread<float, (int)512, (bool)1, (int)1, (int)2, (int)0>(cudnn::bn_bw_1C…
+      0.6        3,753,822        255      14,720.9     10,368.0     3,040       68,479      13,598.5  void at::native::vectorized_elementwise_kernel<(int)4, at::native::BinaryFunctor<float, float, floa…
+      0.5        3,498,572         45      77,746.0     79,006.0    19,967      143,327      47,031.2  _5x_cudnn_volta_scudnn_128x32_sliced1x4_ldg4_relu_exp_medium_nhwc_tn_v1                             
+      0.5        3,373,577         30     112,452.6    112,686.5    81,214      143,007      24,126.0  _5x_cudnn_volta_scudnn_128x64_relu_medium_nn_v1                                                     
+      0.5        3,182,444         15     212,162.9    216,383.0   197,180      224,539      10,032.8  void cudnn::detail::dgrad2d_alg1_1<float, (int)0, (int)6, (int)7, (int)5, (int)4, (int)5, (bool)0, …
+      0.5        3,029,192        195      15,534.3     13,311.0     5,344       51,519       6,927.6  void cudnn::winograd_nonfused::winogradWgradData4x4<float, float>(cudnn::winograd_nonfused::Winogra…
+      0.4        2,840,084         60      47,334.7     46,735.0    44,223       53,887       2,046.2  void cudnn::bn_bw_1C11_kernel_new<float, float, float2, (int)128, (bool)1, (int)1>(T2, T2, T2, T2, …
+      0.4        2,816,242         30      93,874.7     94,318.0    66,624      121,118      25,927.2  void at::native::<unnamed>::multi_tensor_apply_kernel<at::native::<unnamed>::TensorListMetadata<(in…
+      0.4        2,815,540        195      14,438.7     11,424.0     4,192       26,432       6,781.8  void cudnn::winograd_nonfused::winogradWgradDelta4x4<float, float>(cudnn::winograd_nonfused::Winogr…
+      0.4        2,669,818         15     177,987.9    167,452.0   164,381      321,471      39,749.5  void cudnn::bn_bw_1C11_kernel_new<float, float, float2, (int)512, (bool)1, (int)1>(T2, T2, T2, T2, …
+      0.4        2,641,622         15     176,108.1    174,495.0   170,589      202,239       7,432.4  void at::native::<unnamed>::max_pool_backward_nchw<float, float>(const T1 *, const long *, int, lon…
+      0.3        2,236,551        264       8,471.8      7,888.0     1,472       24,416       5,292.6  void at::native::vectorized_elementwise_kernel<(int)4, at::native::CUDAFunctor_add<float>, at::deta…
+      0.3        2,200,356        225       9,779.4      9,312.0     7,424       12,512       1,508.1  void cudnn::bn_fw_tr_1C11_singleread<float, (int)512, (bool)1, (int)1, (int)2, (int)0>(cudnn::bn_fw…
+      0.3        1,953,923         15     130,261.5    131,326.0   121,470      140,863       5,295.0  void wgrad_alg0_engine<float, (int)512, (int)6, (int)5, (int)3, (int)3, (int)3, (bool)0, (int)512>(…
+      0.2        1,649,669         18      91,648.3      3,696.0     3,263      533,749     202,530.8  void at::native::<unnamed>::CatArrayBatchedCopy_aligned16_contig<at::native::<unnamed>::OpaqueType<…
+      0.2        1,514,312         15     100,954.1    102,847.0    92,126      109,789       6,498.0  void cudnn::cnn::wgrad_alg1_engine<float, float, (int)128, (int)6, (int)8, (int)3, (int)3, (int)5, …
+      0.2        1,511,079        255       5,925.8      3,488.0     2,080       42,527       9,100.9  void at::native::vectorized_elementwise_kernel<(int)4, at::native::<unnamed>::launch_clamp_scalar(a…
+      0.2        1,504,456         12     125,371.3    125,181.5   123,392      127,967       1,190.7  void at::native::<unnamed>::multi_tensor_apply_kernel<at::native::<unnamed>::TensorListMetadata<(in…
+      0.2        1,488,169         15      99,211.3     98,078.0    92,414      117,214       5,686.4  void wgrad_alg0_engine<float, (int)128, (int)6, (int)7, (int)3, (int)3, (int)5, (bool)0, (int)512>(…
+      0.2        1,214,253         15      80,950.2     80,992.0    79,230       84,062       1,282.1  void cudnn::bn_fw_tr_1C11_kernel_NCHW<float, float, int, (int)512, (bool)1, (int)1, (bool)1>(cudnnT…
+      0.2        1,089,197         60      18,153.3     18,176.0    16,608       20,607         804.9  void cudnn::bn_fw_tr_1C11_kernel_NCHW<float, float, int, (int)128, (bool)1, (int)1, (bool)1>(cudnnT…
+      0.2        1,006,415        135       7,454.9      6,592.0     2,432       32,352       4,128.2  void cudnn::engines_precompiled::scalePackedTensor_kernel<float, float>(long, T1 *, T2)             
+      0.1          709,683         15      47,312.2     47,808.0    43,711       49,567       1,771.4  void at::native::<unnamed>::max_pool_forward_nchw<float, float>(int, const T1 *, long, long, long, …
+      0.1          619,676        300       2,065.6      2,048.0     1,568        3,200         311.1  void at::native::vectorized_elementwise_kernel<(int)4, at::native::CUDAFunctorOnSelf_add<long>, at:…
+      0.1          587,353         75       7,831.4      5,024.0     3,327       20,223       5,635.5  void cudnn::engines_precompiled::nchwToNhwcKernel<float, float, float, (bool)0, (bool)1, (cudnnKern…
+      0.1          583,415         15      38,894.3     38,751.0    34,719       43,360       2,548.9  void cudnn::cnn::wgrad_alg1_engine<float, float, (int)128, (int)5, (int)5, (int)3, (int)3, (int)3, …
+      0.1          459,737         15      30,649.1     32,191.0    25,632       32,768       2,707.7  _5x_cudnn_volta_scudnn_128x128_relu_small_nn_v1                                                     
+      0.1          362,488         45       8,055.3      1,696.0     1,439       25,152       9,261.6  void at::native::vectorized_elementwise_kernel<(int)4, at::native::FillFunctor<float>, at::detail::…
+      0.1          357,850         15      23,856.7     23,616.0    21,375       27,391       1,645.4  void at::native::sbtopk::gatherTopK<float, unsigned int, (int)2, (bool)0>(at::cuda::detail::TensorI…
+      0.1          354,265         15      23,617.7     23,936.0    20,991       25,088       1,273.8  void precomputed_convolve_sgemm<float, (int)1024, (int)5, (int)5, (int)4, (int)3, (int)3, (int)1, (…
+      0.0          207,443         90       2,304.9      2,240.0     1,632        3,328         366.4  void cask__5x_cudnn::computeOffsetsKernel<(bool)0, (bool)0>(cask__5x_cudnn::ComputeOffsetsParams)   
+      0.0          202,653         15      13,510.2     14,175.0    10,624       15,040       1,535.8  volta_sgemm_64x32_sliced1x4_nn                                                                      
+      0.0          186,909         15      12,460.6     12,575.0    10,944       13,440         840.3  void gemmSN_TN_kernel<float, (int)128, (int)16, (int)2, (int)4, (int)6, (int)7, (bool)0, cublasGemv…
+      0.0          169,179         45       3,759.5      3,616.0     2,623        4,992         704.2  void cudnn::engines_precompiled::nhwcToNchwKernel<float, float, float, (bool)1, (bool)0, (cudnnKern…
+      0.0          151,581         15      10,105.4     10,784.0     7,263       11,104       1,447.5  void at::native::bitonicSortKVInPlace<(int)2, (int)-1, (int)16, (int)16, float, long, at::native::G…
+      0.0          138,364         30       4,612.1      4,400.0     2,911        6,528       1,293.3  void at::native::reduce_kernel<(int)512, (int)1, at::native::ReduceOp<float, at::native::func_wrapp…
+      0.0          132,990         15       8,866.0      9,600.0     5,696       10,176       1,612.4  void <unnamed>::softmax_warp_backward<float, float, float, (int)10, (bool)1, (bool)0>(T2 *, const T…
+      0.0          125,887         15       8,392.5      8,831.0     6,304        9,312       1,045.6  void at::native::reduce_kernel<(int)128, (int)4, at::native::ReduceOp<float, at::native::func_wrapp…
+      0.0          124,477         15       8,298.5      7,775.0     3,680       17,279       3,777.0  void at::native::elementwise_kernel<(int)128, (int)2, void at::native::gpu_kernel_impl_nocast<at::n…
+      0.0          116,828         15       7,788.5      8,352.0     5,183        8,768       1,355.4  void <unnamed>::softmax_warp_forward<float, float, float, (int)10, (bool)1, (bool)0>(T2 *, const T1…
+      0.0          107,004         15       7,133.6      7,103.0     6,752        7,648         236.4  void at::native::reduce_kernel<(int)512, (int)1, at::native::ReduceOp<float, at::native::MeanOps<fl…
+      0.0           56,319         15       3,754.6      4,000.0     2,880        4,320         446.1  void at::native::elementwise_kernel<(int)128, (int)4, void at::native::gpu_kernel_impl<at::native::…
+      0.0           55,134         15       3,675.6      3,840.0     2,880        4,160         400.7  void at::native::<unnamed>::nll_loss_forward_reduce_cuda_kernel_2d<float, float, long>(T1 *, T1 *, …
+      0.0           52,639         15       3,509.3      3,584.0     3,040        3,936         296.1  void splitKreduce_kernel<(int)32, (int)16, int, float, float, float, float, (bool)1, (bool)0, (bool…
+      0.0           51,874         18       2,881.9      2,928.0     1,921        3,616         400.7  void at::native::<unnamed>::CatArrayBatchedCopy_aligned16_contig<at::native::<unnamed>::OpaqueType<…
+      0.0           51,232         30       1,707.7      1,616.0     1,311        2,080         263.4  void at::native::vectorized_elementwise_kernel<(int)4, at::native::BUnaryFunctor<float, float, floa…
+      0.0           50,433         15       3,362.2      3,584.0     2,528        3,872         423.4  void at::native::unrolled_elementwise_kernel<at::native::direct_copy_kernel_cuda(at::TensorIterator…
+      0.0           46,975         15       3,131.7      3,263.0     2,560        3,584         319.8  void at::native::<unnamed>::nll_loss_backward_reduce_cuda_kernel_2d<float, long>(T1 *, const T1 *, …
+      0.0           44,575         15       2,971.7      3,135.0     2,528        3,328         272.0  void at::native::elementwise_kernel<(int)128, (int)4, void at::native::gpu_kernel_impl_nocast<at::n…
+      0.0           44,256         15       2,950.4      3,135.0     2,496        3,456         288.4  void at::native::elementwise_kernel<(int)128, (int)4, void at::native::gpu_kernel_impl_nocast<at::n…
+      0.0           28,321         15       1,888.1      1,920.0     1,760        2,144         122.1  void cudnn::cnn::kern_precompute_indices<(bool)0>(int *, int, int, int, int, int)                   
+      0.0           10,176          6       1,696.0      1,696.0     1,632        1,760          57.2  void at::native::vectorized_elementwise_kernel<(int)4, at::native::CUDAFunctorOnSelf_add<float>, at…
+
+[7/9] Executing 'cuda_gpu_mem_time_sum' stats report
+
+ Time (%)  Total Time (ns)  Count  Avg (ns)  Med (ns)  Min (ns)  Max (ns)   StdDev (ns)            Operation           
+ --------  ---------------  -----  --------  --------  --------  ---------  -----------  ------------------------------
+     78.3       36,357,456    455  79,906.5     832.0       672  3,933,548    388,763.3  [CUDA memcpy Host-to-Device]  
+     20.6        9,571,882  2,391   4,003.3   1,632.0     1,248     77,343      8,277.9  [CUDA memcpy Device-to-Device]
+      1.0          460,727    132   3,490.4   2,016.0       768     32,096      3,880.2  [CUDA memset]                 
+      0.1           61,181     33   1,854.0   1,696.0     1,408      2,816        384.6  [CUDA memcpy Device-to-Host]  
+
+[8/9] Executing 'cuda_gpu_mem_size_sum' stats report
+
+ Total (MB)  Count  Avg (MB)  Med (MB)  Min (MB)  Max (MB)  StdDev (MB)            Operation           
+ ----------  -----  --------  --------  --------  --------  -----------  ------------------------------
+    982.613  2,391     0.411     0.001     0.000     9.437        1.607  [CUDA memcpy Device-to-Device]
+    185.585    455     0.408     0.001     0.000     9.437        1.484  [CUDA memcpy Host-to-Device]  
+     25.294    132     0.192     0.033     0.000     1.180        0.367  [CUDA memset]                 
+      0.007     33     0.000     0.000     0.000     0.002        0.001  [CUDA memcpy Device-to-Host]  
+
+[9/9] Executing 'syscall_sum' stats report
+
+ Time (%)  Total Time (ns)  Num Calls     Avg (ns)         Med (ns)        Min (ns)        Max (ns)       StdDev (ns)            Name         
+ --------  ---------------  ---------  ---------------  ---------------  -------------  --------------  ---------------  ---------------------
+     38.0  817,700,235,537     22,812     35,845,179.5         16,708.0            115  25,021,107,599    642,565,880.2  futex                
+     27.0  581,016,533,856      4,826    120,392,982.6     13,303,868.0            125  25,007,444,911  1,092,589,108.4  epoll_wait           
+     16.8  361,947,826,162      1,246    290,487,822.0    100,211,815.5            298  22,245,960,202  1,370,389,535.1  poll                 
+      6.0  129,827,807,145    126,178      1,028,925.9          1,445.0            170  17,416,841,458    121,816,942.5  read                 
+      5.5  118,923,992,401  3,971,923         29,941.2         19,283.0            146      50,501,188         98,537.0  sched_yield          
+      2.0   42,921,876,677      2,734     15,699,296.5          4,849.5            308   2,750,202,442    193,220,372.5  write                
+      1.3   27,824,162,639        234    118,906,677.9      1,909,882.5          3,685     697,589,919    206,452,745.8  accept4              
+      0.3    6,608,786,172          9    734,309,574.7  1,000,845,038.0    200,546,919   1,001,408,872    400,286,749.5  4 missing syscalls   
+      0.2    5,128,057,518         10    512,805,751.8         19,018.0         11,597   5,004,200,606  1,578,237,224.6  1 missing syscall    
+      0.2    5,102,336,337          2  2,551,168,168.5  2,551,168,168.5    100,117,323   5,002,219,014  3,466,309,347.8  3 missing syscalls   
+      0.2    5,043,500,324          1  5,043,500,324.0  5,043,500,324.0  5,043,500,324   5,043,500,324              0.0  153 missing syscalls 
+      0.2    5,036,561,889          1  5,036,561,889.0  5,036,561,889.0  5,036,561,889   5,036,561,889              0.0  108 missing syscalls 
+      0.2    4,680,819,470     26,101        179,334.9          8,600.0            544      26,008,284        718,718.8  munmap               
+      0.2    3,540,987,057     44,962         78,755.1          7,582.0            589      32,615,224        842,556.5  mmap                 
+      0.1    3,210,570,358          9    356,730,039.8    500,621,276.0     42,017,460     500,689,971    216,391,044.1  2 missing syscalls   
+      0.1    2,328,258,416     21,709        107,248.5         64,030.0          6,023      14,574,961        641,149.0  clock_nanosleep      
+      0.1    2,106,254,485          3    702,084,828.3    702,103,790.0    701,845,594     702,305,101        230,339.6  14 missing syscalls  
+      0.1    1,871,759,279     87,855         21,305.1          2,848.0            457      53,046,121        515,162.1  openat               
+      0.1    1,803,545,198          3    601,181,732.7    601,184,730.0    601,159,492     601,200,976         20,903.8  18 missing syscalls  
+      0.1    1,399,469,823     55,686         25,131.4            337.0             97      55,960,071        674,014.3  ioctl                
+      0.1    1,312,353,538          2    656,176,769.0    656,176,769.0    656,112,440     656,241,098         90,974.9  17 missing syscalls  
+      0.1    1,209,861,424      2,770        436,773.1        207,897.5         81,683      36,849,804      2,166,560.0  clone                
+      0.0      959,685,681     28,975         33,121.2          3,516.0            504      26,408,279        283,486.4  mprotect             
+      0.0      775,242,214         95      8,160,444.4         95,026.0         14,575      46,503,768     13,974,421.7  execve               
+      0.0      684,102,429          1    684,102,429.0    684,102,429.0    684,102,429     684,102,429              0.0  21 missing syscalls  
+      0.0      660,608,921    260,906          2,532.0          1,153.0            281          95,094          5,748.7  stat                 
+      0.0      658,872,299    114,912          5,733.7            238.0            150      51,519,103        293,741.3  fstat                
+      0.0      654,947,961          1    654,947,961.0    654,947,961.0    654,947,961     654,947,961              0.0  7043 missing syscalls
+      0.0      650,699,047          1    650,699,047.0    650,699,047.0    650,699,047     650,699,047              0.0  6342 missing syscalls
+      0.0      650,377,720          1    650,377,720.0    650,377,720.0    650,377,720     650,377,720              0.0  4235 missing syscalls
+      0.0      638,097,455          1    638,097,455.0    638,097,455.0    638,097,455     638,097,455              0.0  77 missing syscalls  
+      0.0      601,832,091          4    150,458,022.8    200,448,025.5        484,603     200,451,437     99,982,279.9  6 missing syscalls   
+      0.0      601,728,019          3    200,576,006.3    200,586,120.0    200,527,472     200,614,427         44,351.0  5 missing syscalls   
+      0.0      600,338,482     24,816         24,191.6          2,118.0            187      83,991,447      1,025,712.0  getdents64           
+      0.0      507,242,283          1    507,242,283.0    507,242,283.0    507,242,283     507,242,283              0.0  90 missing syscalls  
+      0.0      504,932,822          3    168,310,940.7    138,708,987.0    136,968,599     229,255,236     52,786,481.1  3498 missing syscalls
+      0.0      483,609,737      1,771        273,071.6        193,926.0          1,155      15,854,439        759,392.3  sched_setaffinity    
+      0.0      427,713,375     56,650          7,550.1          1,081.0            476     276,719,008      1,185,134.0  accept               
+      0.0      272,458,414        129      2,112,080.7          4,320.0            653      92,335,735     10,978,627.6  wait4                
+      0.0      228,757,107          1    228,757,107.0    228,757,107.0    228,757,107     228,757,107              0.0  2583 missing syscalls
+      0.0      221,199,914          1    221,199,914.0    221,199,914.0    221,199,914     221,199,914              0.0  7 missing syscalls   
+      0.0      216,589,716          1    216,589,716.0    216,589,716.0    216,589,716     216,589,716              0.0  78 missing syscalls  
+      0.0      216,387,282    180,036          1,201.9            617.0            357          88,821          3,784.7  lstat                
+      0.0      214,724,199          1    214,724,199.0    214,724,199.0    214,724,199     214,724,199              0.0  25 missing syscalls  
+      0.0      206,642,967          1    206,642,967.0    206,642,967.0    206,642,967     206,642,967              0.0  2526 missing syscalls
+      0.0      176,880,674      2,591         68,267.3          8,771.0          1,397      10,175,514        455,290.3  madvise              
+      0.0      161,470,201          1    161,470,201.0    161,470,201.0    161,470,201     161,470,201              0.0  2668 missing syscalls
+      0.0      161,204,544     76,254          2,114.0            329.0             83          80,820          6,481.0  close                
+      0.0      161,003,770          1    161,003,770.0    161,003,770.0    161,003,770     161,003,770              0.0  1695 missing syscalls
+      0.0      155,499,862          1    155,499,862.0    155,499,862.0    155,499,862     155,499,862              0.0  1743 missing syscalls
+      0.0      155,401,529          1    155,401,529.0    155,401,529.0    155,401,529     155,401,529              0.0  2948 missing syscalls
+      0.0      154,898,511          1    154,898,511.0    154,898,511.0    154,898,511     154,898,511              0.0  1211 missing syscalls
+      0.0      154,062,879          1    154,062,879.0    154,062,879.0    154,062,879     154,062,879              0.0  1500 missing syscalls
+      0.0      151,224,664          1    151,224,664.0    151,224,664.0    151,224,664     151,224,664              0.0  1610 missing syscalls
+      0.0      150,860,718          1    150,860,718.0    150,860,718.0    150,860,718     150,860,718              0.0  1570 missing syscalls
+      0.0      150,794,200          1    150,794,200.0    150,794,200.0    150,794,200     150,794,200              0.0  1757 missing syscalls
+      0.0      150,429,312          1    150,429,312.0    150,429,312.0    150,429,312     150,429,312              0.0  1062 missing syscalls
+      0.0      149,855,271          1    149,855,271.0    149,855,271.0    149,855,271     149,855,271              0.0  1649 missing syscalls
+      0.0      149,822,163          1    149,822,163.0    149,822,163.0    149,822,163     149,822,163              0.0  1129 missing syscalls
+      0.0      149,413,507          1    149,413,507.0    149,413,507.0    149,413,507     149,413,507              0.0  1539 missing syscalls
+      0.0      145,400,777          1    145,400,777.0    145,400,777.0    145,400,777     145,400,777              0.0  1658 missing syscalls
+      0.0      145,211,884          1    145,211,884.0    145,211,884.0    145,211,884     145,211,884              0.0  1350 missing syscalls
+      0.0      144,677,422          1    144,677,422.0    144,677,422.0    144,677,422     144,677,422              0.0  1863 missing syscalls
+      0.0      144,186,832          1    144,186,832.0    144,186,832.0    144,186,832     144,186,832              0.0  2815 missing syscalls
+      0.0      143,748,464          1    143,748,464.0    143,748,464.0    143,748,464     143,748,464              0.0  1149 missing syscalls
+      0.0      142,912,028          1    142,912,028.0    142,912,028.0    142,912,028     142,912,028              0.0  1397 missing syscalls
+      0.0      142,438,072          1    142,438,072.0    142,438,072.0    142,438,072     142,438,072              0.0  3495 missing syscalls
+      0.0      141,944,563          1    141,944,563.0    141,944,563.0    141,944,563     141,944,563              0.0  1495 missing syscalls
+      0.0      141,603,604          1    141,603,604.0    141,603,604.0    141,603,604     141,603,604              0.0  1222 missing syscalls
+      0.0      141,260,845          1    141,260,845.0    141,260,845.0    141,260,845     141,260,845              0.0  1351 missing syscalls
+      0.0      141,057,669          1    141,057,669.0    141,057,669.0    141,057,669     141,057,669              0.0  1204 missing syscalls
+      0.0      140,598,252          1    140,598,252.0    140,598,252.0    140,598,252     140,598,252              0.0  1174 missing syscalls
+      0.0      139,971,734          1    139,971,734.0    139,971,734.0    139,971,734     139,971,734              0.0  3499 missing syscalls
+      0.0      139,616,270          1    139,616,270.0    139,616,270.0    139,616,270     139,616,270              0.0  2208 missing syscalls
+      0.0      139,069,549          1    139,069,549.0    139,069,549.0    139,069,549     139,069,549              0.0  3489 missing syscalls
+      0.0      138,966,548          1    138,966,548.0    138,966,548.0    138,966,548     138,966,548              0.0  2553 missing syscalls
+      0.0      138,213,765          1    138,213,765.0    138,213,765.0    138,213,765     138,213,765              0.0  3478 missing syscalls
+      0.0      137,794,973          1    137,794,973.0    137,794,973.0    137,794,973     137,794,973              0.0  3492 missing syscalls
+      0.0      137,316,923          1    137,316,923.0    137,316,923.0    137,316,923     137,316,923              0.0  2293 missing syscalls
+      0.0      136,864,099          1    136,864,099.0    136,864,099.0    136,864,099     136,864,099              0.0  3501 missing syscalls
+      0.0      136,839,320          1    136,839,320.0    136,839,320.0    136,839,320     136,839,320              0.0  1520 missing syscalls
+      0.0      136,570,949          1    136,570,949.0    136,570,949.0    136,570,949     136,570,949              0.0  1939 missing syscalls
+      0.0      136,547,573          1    136,547,573.0    136,547,573.0    136,547,573     136,547,573              0.0  3491 missing syscalls
+      0.0      136,127,337          1    136,127,337.0    136,127,337.0    136,127,337     136,127,337              0.0  3496 missing syscalls
+      0.0      135,887,364          1    135,887,364.0    135,887,364.0    135,887,364     135,887,364              0.0  1654 missing syscalls
+      0.0      135,533,247          1    135,533,247.0    135,533,247.0    135,533,247     135,533,247              0.0  1606 missing syscalls
+      0.0      135,129,353          1    135,129,353.0    135,129,353.0    135,129,353     135,129,353              0.0  3504 missing syscalls
+      0.0      129,449,601      9,348         13,847.8          8,929.5             62          74,988         15,532.1  gettid               
+      0.0      124,634,360     98,830          1,261.1            164.0             93          80,944          5,273.9  lseek                
+      0.0      119,011,918        141        844,056.2          9,720.0          2,773      69,699,559      6,498,782.4  pipe2                
+      0.0      117,733,900          1    117,733,900.0    117,733,900.0    117,733,900     117,733,900              0.0  1804 missing syscalls
+      0.0      116,977,478          1    116,977,478.0    116,977,478.0    116,977,478     116,977,478              0.0  1359 missing syscalls
+      0.0      116,386,646          1    116,386,646.0    116,386,646.0    116,386,646     116,386,646              0.0  3456 missing syscalls
+      0.0      116,016,715          1    116,016,715.0    116,016,715.0    116,016,715     116,016,715              0.0  2143 missing syscalls
+      0.0      115,308,517          1    115,308,517.0    115,308,517.0    115,308,517     115,308,517              0.0  2687 missing syscalls
+      0.0      114,886,622          1    114,886,622.0    114,886,622.0    114,886,622     114,886,622              0.0  2601 missing syscalls
+      0.0      114,474,915          1    114,474,915.0    114,474,915.0    114,474,915     114,474,915              0.0  2420 missing syscalls
+      0.0      114,005,767          1    114,005,767.0    114,005,767.0    114,005,767     114,005,767              0.0  2378 missing syscalls
+      0.0      113,599,531          1    113,599,531.0    113,599,531.0    113,599,531     113,599,531              0.0  3382 missing syscalls
+      0.0      113,101,392          1    113,101,392.0    113,101,392.0    113,101,392     113,101,392              0.0  2817 missing syscalls
+      0.0      112,635,184          1    112,635,184.0    112,635,184.0    112,635,184     112,635,184              0.0  1478 missing syscalls
+      0.0      112,218,183          1    112,218,183.0    112,218,183.0    112,218,183     112,218,183              0.0  3350 missing syscalls
+      0.0      111,834,623          1    111,834,623.0    111,834,623.0    111,834,623     111,834,623              0.0  2536 missing syscalls
+      0.0      111,164,253          1    111,164,253.0    111,164,253.0    111,164,253     111,164,253              0.0  1591 missing syscalls
+      0.0      109,614,363          1    109,614,363.0    109,614,363.0    109,614,363     109,614,363              0.0  1083 missing syscalls
+      0.0      107,730,655          1    107,730,655.0    107,730,655.0    107,730,655     107,730,655              0.0  996 missing syscalls 
+      0.0      106,821,528          1    106,821,528.0    106,821,528.0    106,821,528     106,821,528              0.0  2475 missing syscalls
+      0.0      104,484,399          1    104,484,399.0    104,484,399.0    104,484,399     104,484,399              0.0  3131 missing syscalls
+      0.0      103,548,321      1,154         89,729.9         42,193.0          3,139      11,411,810        424,768.3  mbind                
+      0.0       83,243,468     21,085          3,948.0          1,559.0            166       3,298,986         25,326.5  brk                  
+      0.0       80,723,235          1     80,723,235.0     80,723,235.0     80,723,235      80,723,235              0.0  1418 missing syscalls
+      0.0       78,226,398      8,802          8,887.3            984.0             83          74,989         13,684.9  getcpu               
+      0.0       77,391,300          1     77,391,300.0     77,391,300.0     77,391,300      77,391,300              0.0  589 missing syscalls 
+      0.0       63,603,535          1     63,603,535.0     63,603,535.0     63,603,535      63,603,535              0.0  1690 missing syscalls
+      0.0       62,698,618          1     62,698,618.0     62,698,618.0     62,698,618      62,698,618              0.0  563 missing syscalls 
+      0.0       61,915,849        237        261,248.3         53,671.0          4,717       6,624,726        907,202.3  fallocate            
+      0.0       57,422,104          1     57,422,104.0     57,422,104.0     57,422,104      57,422,104              0.0  965 missing syscalls 
+      0.0       45,399,355     21,694          2,092.7          1,644.0            124       5,168,896         36,165.7  recvfrom             
+      0.0       44,624,023          1     44,624,023.0     44,624,023.0     44,624,023      44,624,023              0.0  716 missing syscalls 
+      0.0       39,784,430         93        427,789.6          7,013.0          1,734      38,725,556      4,014,474.4  eventfd2             
+      0.0       31,699,188      3,714          8,535.1          6,230.0            532          77,143          9,529.0  epoll_ctl            
+      0.0       31,544,114          1     31,544,114.0     31,544,114.0     31,544,114      31,544,114              0.0  5425 missing syscalls
+      0.0       30,988,533          1     30,988,533.0     30,988,533.0     30,988,533      30,988,533              0.0  4286 missing syscalls
+      0.0       30,557,993          1     30,557,993.0     30,557,993.0     30,557,993      30,557,993              0.0  2936 missing syscalls
+      0.0       30,058,445          1     30,058,445.0     30,058,445.0     30,058,445      30,058,445              0.0  3390 missing syscalls
+      0.0       29,799,709          1     29,799,709.0     29,799,709.0     29,799,709      29,799,709              0.0  1937 missing syscalls
+      0.0       29,481,053          1     29,481,053.0     29,481,053.0     29,481,053      29,481,053              0.0  3025 missing syscalls
+      0.0       29,347,177          1     29,347,177.0     29,347,177.0     29,347,177      29,347,177              0.0  1061 missing syscalls
+      0.0       27,334,117        348         78,546.3         66,652.0            446         387,977         74,684.5  recvmsg              
+      0.0       27,194,447          1     27,194,447.0     27,194,447.0     27,194,447      27,194,447              0.0  390 missing syscalls 
+      0.0       26,893,635          1     26,893,635.0     26,893,635.0     26,893,635      26,893,635              0.0  2256 missing syscalls
+      0.0       26,670,230          1     26,670,230.0     26,670,230.0     26,670,230      26,670,230              0.0  2178 missing syscalls
+      0.0       26,629,547      2,824          9,429.7          4,821.0            157          88,550         10,849.5  sched_getaffinity    
+      0.0       26,318,810          1     26,318,810.0     26,318,810.0     26,318,810      26,318,810              0.0  2021 missing syscalls
+      0.0       26,262,444          1     26,262,444.0     26,262,444.0     26,262,444      26,262,444              0.0  356 missing syscalls 
+      0.0       25,830,974          1     25,830,974.0     25,830,974.0     25,830,974      25,830,974              0.0  1978 missing syscalls
+      0.0       25,694,662          1     25,694,662.0     25,694,662.0     25,694,662      25,694,662              0.0  1738 missing syscalls
+      0.0       25,405,649          1     25,405,649.0     25,405,649.0     25,405,649      25,405,649              0.0  1897 missing syscalls
+      0.0       25,027,109          1     25,027,109.0     25,027,109.0     25,027,109      25,027,109              0.0  1833 missing syscalls
+      0.0       25,000,698          1     25,000,698.0     25,000,698.0     25,000,698      25,000,698              0.0  1823 missing syscalls
+      0.0       24,601,706          1     24,601,706.0     24,601,706.0     24,601,706      24,601,706              0.0  1679 missing syscalls
+      0.0       24,139,663          1     24,139,663.0     24,139,663.0     24,139,663      24,139,663              0.0  1613 missing syscalls
+      0.0       24,035,316          1     24,035,316.0     24,035,316.0     24,035,316      24,035,316              0.0  905 missing syscalls 
+      0.0       22,970,103          1     22,970,103.0     22,970,103.0     22,970,103      22,970,103              0.0  1572 missing syscalls
+      0.0       22,422,715          1     22,422,715.0     22,422,715.0     22,422,715      22,422,715              0.0  1507 missing syscalls
+      0.0       21,957,658          1     21,957,658.0     21,957,658.0     21,957,658      21,957,658              0.0  1454 missing syscalls
+      0.0       21,507,441          1     21,507,441.0     21,507,441.0     21,507,441      21,507,441              0.0  1405 missing syscalls
+      0.0       21,043,263      2,811          7,486.0          1,249.0            101          63,356         10,846.9  set_robust_list      
+      0.0       21,024,089          1     21,024,089.0     21,024,089.0     21,024,089      21,024,089              0.0  1259 missing syscalls
+      0.0       20,515,704          1     20,515,704.0     20,515,704.0     20,515,704      20,515,704              0.0  1215 missing syscalls
+      0.0       20,037,862          1     20,037,862.0     20,037,862.0     20,037,862      20,037,862              0.0  1254 missing syscalls
+      0.0       19,468,853          1     19,468,853.0     19,468,853.0     19,468,853      19,468,853              0.0  1205 missing syscalls
+      0.0       18,873,054          1     18,873,054.0     18,873,054.0     18,873,054      18,873,054              0.0  1158 missing syscalls
+      0.0       18,460,161          1     18,460,161.0     18,460,161.0     18,460,161      18,460,161              0.0  399 missing syscalls 
+      0.0       17,967,706          1     17,967,706.0     17,967,706.0     17,967,706      17,967,706              0.0  1094 missing syscalls
+      0.0       17,305,970      2,910          5,947.1          1,062.0            247         123,999         10,319.4  getcwd               
+      0.0       16,916,867          1     16,916,867.0     16,916,867.0     16,916,867      16,916,867              0.0  298 missing syscalls 
+      0.0       16,515,756          1     16,515,756.0     16,515,756.0     16,515,756      16,515,756              0.0  995 missing syscalls 
+      0.0       15,737,809          1     15,737,809.0     15,737,809.0     15,737,809      15,737,809              0.0  306 missing syscalls 
+      0.0       15,026,004          1     15,026,004.0     15,026,004.0     15,026,004      15,026,004              0.0  263 missing syscalls 
+      0.0       14,577,489      1,612          9,043.1          2,290.0            384          87,358         12,677.3  readlink             
+      0.0       14,458,642          1     14,458,642.0     14,458,642.0     14,458,642      14,458,642              0.0  680 missing syscalls 
+      0.0       13,821,169          1     13,821,169.0     13,821,169.0     13,821,169      13,821,169              0.0  723 missing syscalls 
+      0.0       12,774,356        378         33,794.6         17,557.5          2,373         358,551         42,703.1  connect              
+      0.0       10,481,711        475         22,066.8          8,389.0          2,132         172,355         28,473.1  sendto               
+      0.0        9,932,563          1      9,932,563.0      9,932,563.0      9,932,563       9,932,563              0.0  585 missing syscalls 
+      0.0        8,932,912      1,650          5,413.9            231.0             86          49,541          8,961.7  rt_sigaction         
+      0.0        8,839,059          1      8,839,059.0      8,839,059.0      8,839,059       8,839,059              0.0  519 missing syscalls 
+      0.0        8,784,886      1,658          5,298.5          1,217.5            285          73,224          9,925.2  pread64              
+      0.0        7,176,307          1      7,176,307.0      7,176,307.0      7,176,307       7,176,307              0.0  340 missing syscalls 
+      0.0        5,560,047      2,590          2,146.7          1,088.0            102          69,141          4,722.7  fcntl                
+      0.0        5,148,437        432         11,917.7         10,344.5          1,699          61,153          8,308.4  socket               
+      0.0        4,876,478          1      4,876,478.0      4,876,478.0      4,876,478       4,876,478              0.0  85 missing syscalls  
+      0.0        4,197,125        579          7,248.9          4,988.0            431          65,055          9,117.7  unlink               
+      0.0        4,116,972          1      4,116,972.0      4,116,972.0      4,116,972       4,116,972              0.0  71 missing syscalls  
+      0.0        3,618,635          1      3,618,635.0      3,618,635.0      3,618,635       3,618,635              0.0  218 missing syscalls 
+      0.0        3,454,840          1      3,454,840.0      3,454,840.0      3,454,840       3,454,840              0.0  80 missing syscalls  
+      0.0        3,153,732        325          9,703.8          5,683.0            666          66,445         11,183.0  prctl                
+      0.0        3,136,375          1      3,136,375.0      3,136,375.0      3,136,375       3,136,375              0.0  190 missing syscalls 
+      0.0        2,974,708        602          4,941.4          2,352.5            560          33,396          6,335.8  getrandom            
+      0.0        2,973,348      1,868          1,591.7            435.0             61          53,888          5,341.9  getpid               
+      0.0        2,923,167        173         16,896.9         12,417.0          1,107          63,089         14,063.7  access               
+      0.0        2,869,985          1      2,869,985.0      2,869,985.0      2,869,985       2,869,985              0.0  48 missing syscalls  
+      0.0        2,681,748        365          7,347.3          1,099.0             99          53,247         12,125.5  clock_gettime        
+      0.0        2,597,935        401          6,478.6            461.0             80          49,893         11,565.1  getuid               
+      0.0        2,427,342        228         10,646.2         10,816.5          2,194          51,077          4,635.4  sendmsg              
+      0.0        2,182,929        110         19,844.8         17,069.5          2,107         117,740         19,124.4  shutdown             
+      0.0        2,136,556          1      2,136,556.0      2,136,556.0      2,136,556       2,136,556              0.0  36 missing syscalls  
+      0.0        1,984,684          1      1,984,684.0      1,984,684.0      1,984,684       1,984,684              0.0  34 missing syscalls  
+      0.0        1,632,278        718          2,273.4          1,696.0            214          47,512          3,279.2  getsockname          
+      0.0        1,368,677          1      1,368,677.0      1,368,677.0      1,368,677       1,368,677              0.0  23 missing syscalls  
+      0.0        1,360,437        178          7,642.9          1,600.0            429          50,858         11,602.7  uname                
+      0.0        1,329,875         36         36,941.0         25,408.0            661         102,485         37,011.6  mkdir                
+      0.0        1,319,028          1      1,319,028.0      1,319,028.0      1,319,028       1,319,028              0.0  81 missing syscalls  
+      0.0        1,230,948        123         10,007.7          4,708.0          1,612          51,243         11,326.7  timerfd_settime      
+      0.0        1,121,523         88         12,744.6          9,279.0            916          51,294         11,389.5  chmod                
+      0.0          928,788        143          6,495.0          1,083.0            268          58,642         11,952.4  rt_sigprocmask       
+      0.0          893,651        210          4,255.5          4,314.0          1,887          25,315          1,639.5  ftruncate            
+      0.0          827,343          1        827,343.0        827,343.0        827,343         827,343              0.0  50 missing syscalls  
+      0.0          771,599         83          9,296.4          3,565.0            922          49,100         11,813.8  epoll_create1        
+      0.0          760,503         82          9,274.4          3,544.5          1,197          49,874         11,530.0  timerfd_create       
+      0.0          741,690        108          6,867.5          1,358.5            420          59,601         11,828.2  prlimit64            
+      0.0          592,937         82          7,230.9            662.5            158          53,221         12,949.4  arch_prctl           
+      0.0          592,479        253          2,341.8            859.0            140          47,156          5,465.7  setsockopt           
+      0.0          566,434        221          2,563.0          1,018.0             80          29,101          5,653.9  getppid              
+      0.0          557,949         78          7,153.2          5,818.5          1,522          17,872          3,475.1  link                 
+      0.0          538,185        146          3,686.2          2,867.0          1,629          11,778          2,256.4  symlink              
+      0.0          536,811         18         29,822.8         29,768.0         20,348          46,272          6,971.4  rmdir                
+      0.0          536,087        312          1,718.2            691.0            164          24,473          4,268.2  dup                  
+      0.0          448,705         54          8,309.4          3,543.5            463          25,637          8,154.0  bind                 
+      0.0          384,513         41          9,378.4          3,579.0          1,436          50,499         11,870.5  kill                 
+      0.0          370,366         53          6,988.0          2,398.0            721          49,986         10,722.9  getsockopt           
+      0.0          353,096        420            840.7            887.0            271           1,711            222.2  fadvise64            
+      0.0          323,800         30         10,793.3          8,209.5          3,612          37,466          8,219.4  sysinfo              
+      0.0          301,785         41          7,360.6            713.0            245          49,204         12,789.2  set_tid_address      
+      0.0          278,343         36          7,731.8          1,866.0            273          48,587         12,954.4  dup2                 
+      0.0          231,923         22         10,542.0          9,928.0          5,116          17,445          3,703.7  statfs               
+      0.0          204,322         68          3,004.7          1,202.5            394          27,656          5,741.5  sigaltstack          
+      0.0          200,147        108          1,853.2          1,817.0            314           5,381            917.6  waitid               
+      0.0          102,119         18          5,673.3          2,042.0          1,569          18,048          6,392.1  chdir                
+      0.0           96,110         21          4,576.7            311.0            103          23,973          7,826.0  getegid              
+      0.0           92,313         21          4,395.9            173.0             84          23,183          7,667.5  getgid               
+      0.0           90,440         34          2,660.0            273.0             78          22,483          5,912.6  geteuid              
+      0.0           57,878         33          1,753.9          1,447.0            893           3,603            842.3  listen               
+      0.0           31,739         18          1,763.3          1,996.0            982           2,346            523.6  rt_sigreturn         
+      0.0           24,475         76            322.0            276.0             65           1,131            224.5  sched_get_priority_m…
+      0.0            9,595          6          1,599.2          1,555.0            705           3,159            891.3  chown                
+      0.0            9,344          7          1,334.9          1,297.0            662           1,916            453.8  get_mempolicy        
+      0.0            7,242         76             95.3             79.0             69             593             66.9  sched_get_priority_m…
+
+Generated:
+    /home/oem/xyp/imagenet_code/Baseline_MultiGPU/output/nvtx/nvtx_b8_w8.nsys-rep
+    /home/oem/xyp/imagenet_code/Baseline_MultiGPU/output/nvtx/nvtx_b8_w8.sqlite

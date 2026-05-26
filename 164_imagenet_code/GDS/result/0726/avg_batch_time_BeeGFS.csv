@@ -1,0 +1,1 @@
+batch_size,worker_num,prefetch_factor,AVG_data,MIN_data,MAX_data,Median_data,p99_data,AVG_train,MIN_train,MAX_train,Median_train,p99_train,AVG_todevice,MIN_todevice,MAX_todevice,Median_todevice,p99_todevice

@@ -1,0 +1,4 @@
+batch_size : 512,epoch_num: 10,worker_num : 16,conn_mode : 1,prefetch :1
+num_classes is  2
+now you are using GPU 0
+开始训练

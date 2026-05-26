@@ -1,0 +1,2 @@
+batch_size,worker_num,epoch,total_time,data_time,data_whole_time,training_time
+256,1,0,20.172107934951782,17.158181190490723,17.67887783050537,2.493230104446411

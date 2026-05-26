@@ -1,0 +1,5 @@
+ 05-02-2026 13:45:52:903 [pid=11302 tid=11302] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 05-02-2026 13:45:52:904 [pid=11302 tid=11302] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 05-02-2026 13:45:52:904 [pid=11302 tid=11302] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/nvme1n1p2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,ext4_journal_mode:ordered,fsid:4f503588a466ef940x,numa_node:-1,queue/logical_block_size:4096,wwid:eui.0050431d0b000001,
+ 05-02-2026 13:45:52:904 [pid=11302 tid=11302] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 05-02-2026 13:45:52:904 [pid=11302 tid=11302] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file

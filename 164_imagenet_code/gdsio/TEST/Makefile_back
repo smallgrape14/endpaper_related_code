@@ -1,0 +1,67 @@
+# 编译器设置
+CC = gcc
+CFLAGS = -Wall -Wextra -std=c99 -g -O2
+LDFLAGS = 
+LIBS = 
+
+# 目标可执行文件名称
+TARGET = test
+
+# 源文件列表（如果有多个源文件，用空格分隔）
+SRCS = test1.cpp
+
+# 生成的对象文件列表
+OBJS = $(SRCS:.c=.o)
+
+# 默认目标：编译整个项目
+all: $(TARGET)
+
+# 链接目标文件生成可执行文件
+$(TARGET): $(OBJS)
+	$(CC) $(LDFLAGS) -o $@ $(OBJS) $(LIBS)
+
+# 编译规则：从.c文件生成.o文件
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# 清理生成的文件
+clean:
+	rm -f $(OBJS) $(TARGET)
+
+# 安装：将可执行文件复制到系统路径（需要sudo权限）
+install: $(TARGET)
+	sudo cp $(TARGET) /usr/local/bin/
+
+# 调试版本：包含调试信息
+debug: CFLAGS += -DDEBUG -O0
+debug: $(TARGET)
+
+# 发布版本：优化大小和速度
+release: CFLAGS += -DNDEBUG -O3
+release: $(TARGET)
+
+# 静态分析
+analyze:
+	clang --analyze $(SRCS)
+
+# 格式化代码
+format:
+	clang-format -i $(SRCS)
+
+# 显示帮助信息
+help:
+	@echo "可用的make目标:"
+	@echo "  all       - 编译项目（默认目标）"
+	@echo "  debug     - 编译调试版本"
+	@echo "  release   - 编译发布版本"
+	@echo "  clean     - 清理生成的文件"
+	@echo "  install   - 安装到系统路径"
+	@echo "  analyze   - 静态代码分析"
+	@echo "  format    - 格式化代码"
+	@echo "  help      - 显示此帮助信息"
+
+# 声明伪目标（不对应实际文件）
+.PHONY: all clean install debug release analyze format help
+
+# 依赖关系（如果有头文件依赖，可以在这里指定）
+# main.o: main.h

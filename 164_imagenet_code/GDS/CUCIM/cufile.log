@@ -1,0 +1,50 @@
+ 29-07-2025 21:02:16:764 [pid=3586116 tid=3586116] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 29-07-2025 21:02:16:765 [pid=3586116 tid=3586116] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 29-07-2025 21:02:16:765 [pid=3586116 tid=3586116] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 29-07-2025 21:02:16:765 [pid=3586116 tid=3586116] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 29-07-2025 21:02:16:765 [pid=3586116 tid=3586116] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 29-07-2025 21:02:16:765 [pid=3586116 tid=3586116] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 29-07-2025 21:02:16:766 [pid=3586116 tid=3586116] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 29-07-2025 21:02:16:766 [pid=3586116 tid=3586116] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 29-07-2025 21:02:16:766 [pid=3586116 tid=3586116] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 29-07-2025 21:02:16:766 [pid=3586116 tid=3586116] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 30-07-2025 09:37:35:606 [pid=3641670 tid=3641670] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 09:37:35:607 [pid=3641670 tid=3641670] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 30-07-2025 09:37:35:607 [pid=3641670 tid=3641670] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 09:37:35:607 [pid=3641670 tid=3641670] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 30-07-2025 09:37:35:607 [pid=3641670 tid=3641670] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 30-07-2025 09:37:35:607 [pid=3641670 tid=3641670] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 30-07-2025 09:37:35:608 [pid=3641670 tid=3641670] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 09:37:35:608 [pid=3641670 tid=3641670] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 30-07-2025 09:37:35:608 [pid=3641670 tid=3641670] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 30-07-2025 09:37:35:608 [pid=3641670 tid=3641670] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 30-07-2025 09:38:28:502 [pid=3642012 tid=3642012] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 09:38:28:502 [pid=3642012 tid=3642012] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 30-07-2025 09:38:28:502 [pid=3642012 tid=3642012] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 09:38:28:502 [pid=3642012 tid=3642012] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 30-07-2025 09:38:28:502 [pid=3642012 tid=3642012] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 30-07-2025 09:38:28:502 [pid=3642012 tid=3642012] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 30-07-2025 09:38:28:503 [pid=3642012 tid=3642012] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 09:38:28:503 [pid=3642012 tid=3642012] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 30-07-2025 09:38:28:503 [pid=3642012 tid=3642012] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 30-07-2025 09:38:28:503 [pid=3642012 tid=3642012] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 30-07-2025 10:01:22:223 [pid=3644226 tid=3644226] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 10:01:22:223 [pid=3644226 tid=3644226] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 30-07-2025 10:01:22:223 [pid=3644226 tid=3644226] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 10:01:22:223 [pid=3644226 tid=3644226] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 30-07-2025 10:01:22:223 [pid=3644226 tid=3644226] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 30-07-2025 10:01:22:223 [pid=3644226 tid=3644226] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 30-07-2025 10:01:22:224 [pid=3644226 tid=3644226] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 10:01:22:224 [pid=3644226 tid=3644226] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 30-07-2025 10:01:22:224 [pid=3644226 tid=3644226] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 30-07-2025 10:01:22:224 [pid=3644226 tid=3644226] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 30-07-2025 11:39:10:506 [pid=3652434 tid=3652434] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 11:39:10:507 [pid=3652434 tid=3652434] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 30-07-2025 11:39:10:507 [pid=3652434 tid=3652434] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 11:39:10:507 [pid=3652434 tid=3652434] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 30-07-2025 11:39:10:507 [pid=3652434 tid=3652434] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 30-07-2025 11:39:10:507 [pid=3652434 tid=3652434] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 30-07-2025 11:39:10:508 [pid=3652434 tid=3652434] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 30-07-2025 11:39:10:508 [pid=3652434 tid=3652434] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 30-07-2025 11:39:10:508 [pid=3652434 tid=3652434] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 30-07-2025 11:39:10:508 [pid=3652434 tid=3652434] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file

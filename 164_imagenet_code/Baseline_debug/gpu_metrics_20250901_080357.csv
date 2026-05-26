@@ -1,0 +1,1 @@
+epoch,phase,gpu_load,memory_used,memory_allocated,memory_cached,duration,batch_size,worker_num,prefetch_factor

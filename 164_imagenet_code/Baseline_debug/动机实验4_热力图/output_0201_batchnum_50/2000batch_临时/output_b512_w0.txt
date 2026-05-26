@@ -1,0 +1,6 @@
+batch_size : 512,epoch_num: 1,worker_num : 0,conn_mode : 1,prefetch :1
+num_classes is  1000
+now you are using GPU 2
+开始训练
+Epoch: [0][   1/2502]	Time 6.580132 (6.580132)	Data 5.392804 (5.392804)	Train 1.187328 (1.187328)	Loss 7.0141e+00 (7.0141e+00)	Acc@1 0.3906 (0.3906)	Acc@5 0.3906 (0.3906)
+Epoch: [0][   2/2502]	Time 5.495434 (6.037783)	Data 5.054085 (5.223444)	Train 0.441349 (0.814339)	Loss 7.1157e+00 (7.0649e+00)	Acc@1 0.0000 (0.1953)	Acc@5 0.0000 (0.1953)

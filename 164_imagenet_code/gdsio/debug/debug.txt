@@ -1,0 +1,182 @@
+Error Log Entries for device:nvme1n1p2 entries:15
+.................
+ Entry[ 0]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[ 1]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[ 2]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[ 3]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[ 4]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[ 5]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[ 6]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[ 7]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[ 8]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[ 9]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[10]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[11]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[12]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[13]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................
+ Entry[14]   
+.................
+error_count  : 0
+sqid         : 0
+cmdid        : 0
+status_field : 0(SUCCESS: The command completed successfully)
+parm_err_loc : 0
+lba          : 0
+nsid         : 0
+vs           : 0
+cs           : 0
+.................

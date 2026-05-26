@@ -1,0 +1,1 @@
+batch_size : 32,epoch_num: 2,worker_num : 16,conn_mode : 1,prefetch :1

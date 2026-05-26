@@ -1,0 +1,52 @@
+ 26-11-2025 21:43:48:964 [pid=817614 tid=817614] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:43:48:965 [pid=817614 tid=817614] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:43:48:965 [pid=817614 tid=817614] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/nvme1n1p2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,ext4_journal_mode:ordered,fsid:4f503588a466ef940x,numa_node:-1,queue/logical_block_size:4096,wwid:eui.0050431d0b000001,
+ 26-11-2025 21:43:48:965 [pid=817614 tid=817614] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:43:50:141 [pid=817614 tid=817614] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:43:50:142 [pid=817614 tid=817614] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:43:50:142 [pid=817614 tid=817614] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/nvme1n1p2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,ext4_journal_mode:ordered,fsid:4f503588a466ef940x,numa_node:-1,queue/logical_block_size:4096,wwid:eui.0050431d0b000001,
+ 26-11-2025 21:43:50:142 [pid=817614 tid=817614] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:44:01:74 [pid=817753 tid=817753] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:44:01:75 [pid=817753 tid=817753] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:44:01:75 [pid=817753 tid=817753] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/nvme1n1p2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,ext4_journal_mode:ordered,fsid:4f503588a466ef940x,numa_node:-1,queue/logical_block_size:4096,wwid:eui.0050431d0b000001,
+ 26-11-2025 21:44:01:75 [pid=817753 tid=817753] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:44:02:268 [pid=817753 tid=817753] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:44:02:268 [pid=817753 tid=817753] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:44:02:268 [pid=817753 tid=817753] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/nvme1n1p2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,ext4_journal_mode:ordered,fsid:4f503588a466ef940x,numa_node:-1,queue/logical_block_size:4096,wwid:eui.0050431d0b000001,
+ 26-11-2025 21:44:02:268 [pid=817753 tid=817753] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:45:50:525 [pid=818258 tid=818258] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:45:50:526 [pid=818258 tid=818258] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 26-11-2025 21:45:50:526 [pid=818258 tid=818258] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:45:50:527 [pid=818258 tid=818258] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 26-11-2025 21:45:50:527 [pid=818258 tid=818258] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:46:46:763 [pid=818476 tid=818476] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:46:46:764 [pid=818476 tid=818476] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 26-11-2025 21:46:46:764 [pid=818476 tid=818476] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:46:46:764 [pid=818476 tid=818476] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 26-11-2025 21:46:46:764 [pid=818476 tid=818476] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:46:47:932 [pid=818476 tid=818476] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:46:47:933 [pid=818476 tid=818476] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 26-11-2025 21:46:47:933 [pid=818476 tid=818476] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:46:47:933 [pid=818476 tid=818476] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 26-11-2025 21:46:47:933 [pid=818476 tid=818476] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:54:04:643 [pid=820925 tid=820925] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:54:04:644 [pid=820925 tid=820925] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 26-11-2025 21:54:04:644 [pid=820925 tid=820925] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:54:04:644 [pid=820925 tid=820925] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 26-11-2025 21:54:04:644 [pid=820925 tid=820925] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:54:05:843 [pid=820925 tid=820925] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:54:05:843 [pid=820925 tid=820925] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 26-11-2025 21:54:05:843 [pid=820925 tid=820925] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:54:05:843 [pid=820925 tid=820925] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 26-11-2025 21:54:05:843 [pid=820925 tid=820925] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:54:59:399 [pid=821170 tid=821170] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:54:59:400 [pid=821170 tid=821170] ERROR  cufio-fs:79 mount option not found in mount table data device: /dev/sdb2
+ 26-11-2025 21:54:59:400 [pid=821170 tid=821170] ERROR  cufio-fs:216 enable use_mq for scsi_mod
+ 26-11-2025 21:54:59:400 [pid=821170 tid=821170] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/sdb2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,UDEV_PCI_BRIDGE:0000:30:02.0,fsid:711d8f26d1f6cef50x,numa_node:0,queue/logical_block_size:4096,wwid:naa.5ace42e0255c23e3,
+ 26-11-2025 21:54:59:400 [pid=821170 tid=821170] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 26-11-2025 21:54:59:400 [pid=821170 tid=821170] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file
+ 26-11-2025 21:56:10:23 [pid=821557 tid=821557] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:56:10:24 [pid=821557 tid=821557] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:56:10:24 [pid=821557 tid=821557] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/nvme1n1p2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,ext4_journal_mode:ordered,fsid:4f503588a466ef940x,numa_node:-1,queue/logical_block_size:4096,wwid:eui.0050431d0b000001,
+ 26-11-2025 21:56:10:24 [pid=821557 tid=821557] ERROR  cufio:297 cuFileHandleRegister error, file checks failed
+ 26-11-2025 21:56:10:24 [pid=821557 tid=821557] ERROR  cufio:339 cuFileHandleRegister error: GPUDirect Storage not supported on current file

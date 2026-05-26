@@ -1,0 +1,8 @@
+Use GPU: 0 for training
+=> creating model 'resnet18'
+worker_num : 8
+@@ 非dummy数据集加载
+Use GPU: 1 for training
+=> creating model 'resnet18'
+worker_num : 8
+@@ 非dummy数据集加载

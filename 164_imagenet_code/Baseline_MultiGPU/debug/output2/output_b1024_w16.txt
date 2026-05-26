@@ -1,0 +1,30 @@
+Use GPU: 0 for training
+=> creating model 'resnet18'
+worker_num : 8
+@@ 非dummy数据集加载
+Use GPU: 1 for training
+=> creating model 'resnet18'
+worker_num : 8
+@@ 非dummy数据集加载
+ 0 th batch,total_time: 28.145544(28.145544),data_time: 27.357105(27.357105),train_time: 0.788439(0.788439)
+ 1 th batch,total_time: 0.562896(14.354220),data_time: 0.130142(13.743623),train_time: 0.432754(0.610597)
+ 2 th batch,total_time: 0.279799(9.662746),data_time: 0.134271(9.207173),train_time: 0.145528(0.455574)
+ 3 th batch,total_time: 0.492210(7.370112),data_time: 0.343942(6.991365),train_time: 0.148268(0.378747)
+ 4 th batch,total_time: 0.479927(5.992075),data_time: 0.333833(5.659858),train_time: 0.146094(0.332217)
+ 5 th batch,total_time: 0.480270(5.073441),data_time: 0.332118(4.771902),train_time: 0.148152(0.301539)
+ 6 th batch,total_time: 0.496964(4.419659),data_time: 0.348012(4.139918),train_time: 0.148952(0.279741)
+ 7 th batch,total_time: 0.481244(3.927357),data_time: 0.332335(3.663970),train_time: 0.148909(0.263387)
+ 8 th batch,total_time: 0.479512(3.544263),data_time: 0.330328(3.293565),train_time: 0.149183(0.250698)
+ 9 th batch,total_time: 0.512585(3.241095),data_time: 0.365356(3.000744),train_time: 0.147229(0.240351)
+ 10 th batch,total_time: 0.700316(3.010115),data_time: 0.548141(2.777780),train_time: 0.152175(0.232335)
+ 0 th batch,total_time: 28.146339(28.146339),data_time: 26.496608(26.496608),train_time: 1.649732(1.649732)
+ 1 th batch,total_time: 0.563509(14.354924),data_time: 0.119406(13.308007),train_time: 0.444103(1.046917)
+ 2 th batch,total_time: 0.277591(9.662479),data_time: 0.116439(8.910817),train_time: 0.161152(0.751662)
+ 3 th batch,total_time: 0.489514(7.369238),data_time: 0.334462(6.766729),train_time: 0.155052(0.602509)
+ 4 th batch,total_time: 0.481967(5.991784),data_time: 0.337187(5.480820),train_time: 0.144780(0.510964)
+ 5 th batch,total_time: 0.482977(5.073649),data_time: 0.336862(4.623494),train_time: 0.146115(0.450155)
+ 6 th batch,total_time: 0.492372(4.419181),data_time: 0.333857(4.010689),train_time: 0.158514(0.408492)
+ 7 th batch,total_time: 0.483412(3.927210),data_time: 0.338527(3.551669),train_time: 0.144884(0.375541)
+ 8 th batch,total_time: 0.482728(3.544490),data_time: 0.338002(3.194594),train_time: 0.144726(0.349895)
+ 9 th batch,total_time: 0.726900(3.262731),data_time: 0.580542(2.933189),train_time: 0.146358(0.329542)
+ 10 th batch,total_time: 0.483054(3.010033),data_time: 0.337427(2.697211),train_time: 0.145627(0.312822)

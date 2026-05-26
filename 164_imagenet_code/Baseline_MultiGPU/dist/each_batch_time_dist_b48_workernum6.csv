@@ -1,0 +1,1 @@
+batch_size,worker_num,batch_idx,batch_time,avg_batch,data_time,avg_data,train_time,avg_train

@@ -1,0 +1,16 @@
+ 26-11-2025 21:05:48:830 [pid=808697 tid=808697] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:05:48:831 [pid=808697 tid=808697] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:05:48:831 [pid=808697 tid=808697] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/nvme1n1p2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,ext4_journal_mode:ordered,fsid:4f503588a466ef940x,numa_node:-1,queue/logical_block_size:4096,wwid:eui.0050431d0b000001,
+ 26-11-2025 21:05:48:831 [pid=808697 tid=808697] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:06:17:711 [pid=808894 tid=808894] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:06:17:712 [pid=808894 tid=808894] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:06:17:712 [pid=808894 tid=808894] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/nvme1n1p2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,ext4_journal_mode:ordered,fsid:4f503588a466ef940x,numa_node:-1,queue/logical_block_size:4096,wwid:eui.0050431d0b000001,
+ 26-11-2025 21:06:17:712 [pid=808894 tid=808894] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:06:33:378 [pid=808973 tid=808973] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:06:33:379 [pid=808973 tid=808973] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:06:33:379 [pid=808973 tid=808973] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/nvme1n1p2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,ext4_journal_mode:ordered,fsid:4f503588a466ef940x,numa_node:-1,queue/logical_block_size:4096,wwid:eui.0050431d0b000001,
+ 26-11-2025 21:06:33:379 [pid=808973 tid=808973] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled
+ 26-11-2025 21:07:09:13 [pid=809108 tid=809108] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:07:09:14 [pid=809108 tid=809108] ERROR  cufio-fs:199 NVMe Driver not registered with nvidia-fs!!!
+ 26-11-2025 21:07:09:14 [pid=809108 tid=809108] NOTICE  cufio-fs:441 dumping volume attributes: DEVNAME:/dev/nvme1n1p2,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,ext4_journal_mode:ordered,fsid:4f503588a466ef940x,numa_node:-1,queue/logical_block_size:4096,wwid:eui.0050431d0b000001,
+ 26-11-2025 21:07:09:14 [pid=809108 tid=809108] NOTICE  cufio:293 cuFileHandleRegister GDS not supported or disabled by config, using cuFile posix read/write with compat mode enabled

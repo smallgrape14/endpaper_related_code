@@ -1,0 +1,313 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1200" height="456"
+     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style type="text/css">
+    .func_g:hover { stroke:black; stroke-width:0.5; cursor:pointer; }
+</style>
+<svg class="func_g" x="0.20371643393771943" y="144" width="5.0562690195573" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/_tensor.py:465:backward 0.50% (1 1 1.2148000000000001e-05 0.009883111)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">backward</text>
+</g></svg>
+<svg class="func_g" x="0.20371643393771943" y="120" width="5.048461465480634" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/autograd/__init__.py:183:backward 0.50% (1 1 1.887e-05 0.00987037)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">backward</text>
+</g></svg>
+<svg class="func_g" x="0.24042192657080455" y="96" width="4.999196847127336" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/autograd/graph.py:764:_engine_run_backward 0.50% (1 1 1.6416e-05 0.009789976)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_engine_run_backward</text>
+</g></svg>
+<svg class="func_g" x="0.24191897190549505" y="72" width="4.987640245421677" height="23"><g>
+    <title>~:0:&lt;method 'run_backward' of 'torch._C._EngineBase' objects&gt; 0.50% (1 1 0.009771117000000001 0.009771117000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'run_backward' of 'torch._C._EngineBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="6.424584454383221" y="144" width="6.026767416721476" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/cuda/streams.py:94:synchronize 0.59% (1 1 9.285e-06 0.011466849000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">synchronize</text>
+</g></svg>
+<svg class="func_g" x="6.424584454383221" y="120" width="6.021077663986067" height="23"><g>
+    <title>~:0:&lt;function Stream.synchronize at 0x7fa99b7aaca0&gt; 0.59% (1 1 0.011457564 0.011457564)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;function Stream.synchronize at 0x7fa99b7aaca0&gt;</text>
+</g></svg>
+<svg class="func_g" x="14.149778977209289" y="144" width="2.3761264664843607" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:427:__iter__ 0.28% (1 1 5.599e-06 0.005509437000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__iter__</text>
+</g></svg>
+<svg class="func_g" x="14.149778977209289" y="120" width="2.372695456730397" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1085:_reset 0.28% (1 1 5.0811000000000005e-05 0.0055038380000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 115, 64)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_reset</text>
+</g></svg>
+<svg class="func_g" x="14.23604016332215" y="96" width="1.693483598501326" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1264:_get_data 0.22% (8 8 1.4700000000000002e-05 0.004395445)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_data</text>
+</g></svg>
+<svg class="func_g" x="14.23610573934899" y="72" width="1.6844100132972644" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1118:_try_get_data 0.22% (0 0 5.5332251765786155e-08 0.00438063798772064)</title>
+    <rect height="100%" width="100%" fill="rgb(71, 230, 126)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_try_get_data</text>
+</g></svg>
+<svg class="func_g" x="14.23610573934899" y="48" width="1.6843761062610945" height="23"><g>
+    <title>/usr/lib/python3.8/queue.py:153:get 0.22% (0 0 2.535586539011582e-07 0.0043805826554688745)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">get</text>
+</g></svg>
+<svg class="func_g" x="14.236204640261438" y="24" width="1.6840356703610326" height="23"><g>
+    <title>/usr/lib/python3.8/threading.py:270:wait 0.22% (0 0 1.5656712063296148e-07 0.004380027104554965)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="14.236264505463115" y="0" width="1.6838777753166396" height="23"><g>
+    <title>~:0:&lt;method 'acquire' of '_thread.lock' objects&gt; 0.22% (0 0 0.004379769438614921 0.004379769438614921)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'acquire' of '_thread.lock' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="17.525905443693645" y="144" width="1141.4681157710766" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:625:__next__ 95.21% (1 1 2.7731000000000003e-05 1.8643721350000002)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 190, 110)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__next__</text>
+</g></svg>
+<svg class="func_g" x="17.955119922875504" y="120" width="1141.0219080196161" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1297:_next_data 95.17% (1 1 5.8728000000000004e-05 1.8636439770000002)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_next_data</text>
+</g></svg>
+<svg class="func_g" x="17.955119922875504" y="96" width="1140.760302564525" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1264:_get_data 95.15% (3 3 1.8047000000000002e-05 1.8632170680000002)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 215, 125)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_data</text>
+</g></svg>
+<svg class="func_g" x="17.983010427574786" y="72" width="1140.7213530433892" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1118:_try_get_data 95.14% (11 11 2.353366774823422e-05 1.8631535070122798)</title>
+    <rect height="100%" width="100%" fill="rgb(71, 230, 126)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_try_get_data</text>
+</g></svg>
+<svg class="func_g" x="17.983010427574786" y="48" width="1140.7069318532497" height="23"><g>
+    <title>/usr/lib/python3.8/queue.py:153:get 95.14% (11 11 0.00010784244134609886 1.8631299733445315)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 165, 95)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">get</text>
+</g></svg>
+<svg class="func_g" x="18.025074524719393" y="24" width="1140.562139167141" height="23"><g>
+    <title>/usr/lib/python3.8/threading.py:270:wait 95.13% (6 6 6.659043287936705e-05 1.8628936888954455)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 90, 49)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="18.050536126607025" y="0" width="1140.4949839476212" height="23"><g>
+    <title>~:0:&lt;method 'acquire' of '_thread.lock' objects&gt; 95.12% (12 12 1.8627840995613854 1.8627840995613854)</title>
+    <rect height="100%" width="100%" fill="rgb(255, 140, 79)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'acquire' of '_thread.lock' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="5.645109777273243" y="192" width="1" height="23"><g>
+    <title>~:0:&lt;built-in method torch.conv2d&gt; 0.12% (20 20 0.0023233760000000003 0.0023233760000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(166, 166, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method torch.conv2d&gt;</text>
+</g></svg>
+<svg class="func_g" x="5.645109777273243" y="216" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/conv.py:449:_conv_forward 0.12% (20 20 0.0023233760000000003 0.0023233760000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_conv_forward</text>
+</g></svg>
+<svg class="func_g" x="5.645109777273243" y="240" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/conv.py:457:forward 0.00% (20 20 6.0078e-05 0.002383454)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">forward</text>
+</g></svg>
+<svg class="func_g" x="5.645109777273243" y="264" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1555:_call_impl 0.00% (20 20 8.895800000000001e-05 0.0025092450000000002)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_call_impl</text>
+</g></svg>
+<svg class="func_g" x="5.645109777273243" y="288" width="1" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/nn/modules/module.py:1549:_wrapped_call_impl 0.02% (77 2 0.00033186 0.008480039)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_wrapped_call_impl</text>
+</g></svg>
+<svg class="func_g" x="7.552115737516473" y="192" width="6.021077663986067" height="23"><g>
+    <title>~:0:&lt;function Stream.synchronize at 0x7fa99b7aaca0&gt; 0.59% (1 1 0.011457564 0.011457564)</title>
+    <rect height="100%" width="100%" fill="rgb(198, 198, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;function Stream.synchronize at 0x7fa99b7aaca0&gt;</text>
+</g></svg>
+<svg class="func_g" x="7.552115737516473" y="216" width="6.021077663986067" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/cuda/streams.py:94:synchronize 0.59% (1 1 0.011457564 0.011457564)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">synchronize</text>
+</g></svg>
+<svg class="func_g" x="14.588222069874742" y="192" width="1143.1980248836853" height="23"><g>
+    <title>~:0:&lt;method 'acquire' of '_thread.lock' objects&gt; 95.35% (63 63 1.867195141 1.867195141)</title>
+    <rect height="100%" width="100%" fill="rgb(182, 182, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'acquire' of '_thread.lock' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="14.602737833234608" y="216" width="1143.1788617229377" height="23"><g>
+    <title>/usr/lib/python3.8/threading.py:270:wait 95.35% (12 12 1.867163869 1.867163869)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">wait</text>
+</g></svg>
+<svg class="func_g" x="14.602737833234608" y="240" width="1143.1788617229377" height="23"><g>
+    <title>/usr/lib/python3.8/queue.py:153:get 0.00% (6 6 6.6747e-05 1.8672737160000001)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">get</text>
+</g></svg>
+<svg class="func_g" x="14.602737833234608" y="264" width="1143.1788617229377" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1118:_try_get_data 0.01% (11 11 0.000108096 1.867510556)</title>
+    <rect height="100%" width="100%" fill="rgb(211, 211, 211)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_try_get_data</text>
+</g></svg>
+<svg class="func_g" x="14.602737833234608" y="288" width="1143.1788617229377" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1264:_get_data 0.00% (11 11 2.3589e-05 1.867534145)</title>
+    <rect height="100%" width="100%" fill="rgb(197, 197, 197)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_get_data</text>
+</g></svg>
+<svg class="func_g" x="14.602737833234608" y="312" width="1.6928365610419203" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1085:_reset 0.00% (8 8 1.4700000000000002e-05 0.004395445)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_reset</text>
+</g></svg>
+<svg class="func_g" x="14.602737833234608" y="336" width="1.6928365610419203" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:427:__iter__ 0.00% (1 1 5.0811000000000005e-05 0.0055038380000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__iter__</text>
+</g></svg>
+<svg class="func_g" x="17.295574394276528" y="312" width="1140.4860251618957" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1297:_next_data 0.00% (3 3 1.8047000000000002e-05 1.8632170680000002)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_next_data</text>
+</g></svg>
+<svg class="func_g" x="17.295574394276528" y="336" width="1140.4860251618957" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:625:__next__ 0.00% (1 1 5.8728000000000004e-05 1.8636439770000002)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__next__</text>
+</g></svg>
+<svg class="func_g" x="1159.3264266244307" y="192" width="33.15139112488345" height="23"><g>
+    <title>~:0:&lt;method 'item' of 'torch._C.TensorBase' objects&gt; 2.85% (2 2 0.055731010000000004 0.055731010000000004)</title>
+    <rect height="100%" width="100%" fill="rgb(166, 166, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'item' of 'torch._C.TensorBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1159.3264266244307" y="216" width="33.15139112488345" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/sampler.py:153:__iter__ 0.00% (1 1 7.854e-06 7.854e-06)</title>
+    <rect height="100%" width="100%" fill="rgb(190, 190, 190)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__iter__</text>
+</g></svg>
+<svg class="func_g" x="1159.3264266244307" y="240" width="33.15139112488345" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.next&gt; 0.01% (2304 2304 0.000222209 0.00044332000000000003)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.next&gt;</text>
+</g></svg>
+<svg class="func_g" x="1159.3264266244307" y="264" width="19.169585822330635" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:619:_next_index 0.00% (9 9 4.66e-06 0.00111334)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_next_index</text>
+</g></svg>
+<svg class="func_g" x="1159.3264266244307" y="288" width="19.169585822330635" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1346:_try_put_index 0.00% (9 9 8.321e-06 0.0011216610000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_try_put_index</text>
+</g></svg>
+<svg class="func_g" x="1159.3264266244307" y="312" width="13.436633316906082" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1085:_reset 0.00% (8 8 2.2328e-05 0.000903847)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_reset</text>
+</g></svg>
+<svg class="func_g" x="1159.3264266244307" y="336" width="13.436633316906082" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:427:__iter__ 0.00% (1 1 5.0811000000000005e-05 0.0055038380000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__iter__</text>
+</g></svg>
+<svg class="func_g" x="1173.7630599413367" y="312" width="4.732952505424553" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1366:_process_data 0.00% (1 1 1.6537e-05 0.000358928)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_process_data</text>
+</g></svg>
+<svg class="func_g" x="1173.7630599413367" y="336" width="4.732952505424553" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1297:_next_data 0.00% (1 1 6.215000000000001e-06 0.000366858)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_next_data</text>
+</g></svg>
+<svg class="func_g" x="1173.7630599413367" y="360" width="4.732952505424553" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:625:__next__ 0.00% (1 1 5.8728000000000004e-05 1.8636439770000002)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__next__</text>
+</g></svg>
+<svg class="func_g" x="1179.5519736541241" y="264" width="12.925844095190133" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/sampler.py:281:&lt;listcomp&gt; 0.02% (2304 2304 0.00032537200000000004 0.0007686920000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;listcomp&gt;</text>
+</g></svg>
+<svg class="func_g" x="1179.5519736541241" y="288" width="12.925844095190133" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/sampler.py:275:__iter__ 0.02% (9 9 0.00031539700000000003 0.001084089)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__iter__</text>
+</g></svg>
+<svg class="func_g" x="1179.5519736541241" y="312" width="12.925844095190133" height="23"><g>
+    <title>~:0:&lt;built-in method builtins.next&gt; 0.00% (9 9 2.3642e-05 0.0011086800000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;built-in method builtins.next&gt;</text>
+</g></svg>
+<svg class="func_g" x="1179.5519736541241" y="336" width="7.224511458383299" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:619:_next_index 0.00% (9 9 4.66e-06 0.00111334)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_next_index</text>
+</g></svg>
+<svg class="func_g" x="1179.5519736541241" y="360" width="7.224511458383299" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1346:_try_put_index 0.00% (9 9 8.321e-06 0.0011216610000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_try_put_index</text>
+</g></svg>
+<svg class="func_g" x="1179.5519736541241" y="384" width="4.886796941755554" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1085:_reset 0.00% (8 8 2.2328e-05 0.000903847)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_reset</text>
+</g></svg>
+<svg class="func_g" x="1179.5519736541241" y="408" width="4.886796941755554" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:427:__iter__ 0.00% (1 1 5.0811000000000005e-05 0.0055038380000000005)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__iter__</text>
+</g></svg>
+<svg class="func_g" x="1185.4387705958795" y="384" width="1.337714516627745" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1366:_process_data 0.00% (1 1 1.6537e-05 0.000358928)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_process_data</text>
+</g></svg>
+<svg class="func_g" x="1185.4387705958795" y="408" width="1.337714516627745" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:1297:_next_data 0.00% (1 1 6.215000000000001e-06 0.000366858)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_next_data</text>
+</g></svg>
+<svg class="func_g" x="1185.4387705958795" y="432" width="1.337714516627745" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/dataloader.py:625:__next__ 0.00% (1 1 5.8728000000000004e-05 1.8636439770000002)</title>
+    <rect height="100%" width="100%" fill="rgb(204, 204, 204)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">__next__</text>
+</g></svg>
+<svg class="func_g" x="1187.7993043015197" y="336" width="4.678513447794542" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/utils/data/sampler.py:281:&lt;listcomp&gt; 0.02% (2304 2304 0.00032537200000000004 0.0007686920000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(218, 218, 218)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;listcomp&gt;</text>
+</g></svg>
+<svg class="func_g" x="1193.6192998700528" y="192" width="4.987640245421677" height="23"><g>
+    <title>~:0:&lt;method 'run_backward' of 'torch._C._EngineBase' objects&gt; 0.50% (1 1 0.009771117000000001 0.009771117000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(214, 214, 255)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">&lt;method 'run_backward' of 'torch._C._EngineBase' objects&gt;</text>
+</g></svg>
+<svg class="func_g" x="1193.6192998700528" y="216" width="4.987640245421677" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/autograd/graph.py:764:_engine_run_backward 0.50% (1 1 0.009771117000000001 0.009771117000000001)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">_engine_run_backward</text>
+</g></svg>
+<svg class="func_g" x="1193.6192998700528" y="240" width="4.987640245421677" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/autograd/__init__.py:183:backward 0.00% (1 1 1.6416e-05 0.009789976)</title>
+    <rect height="100%" width="100%" fill="rgb(225, 225, 225)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">backward</text>
+</g></svg>
+<svg class="func_g" x="1193.6192998700528" y="264" width="4.987640245421677" height="23"><g>
+    <title>/usr/local/lib/python3.8/dist-packages/torch/_tensor.py:465:backward 0.00% (1 1 1.887e-05 0.00987037)</title>
+    <rect height="100%" width="100%" fill="rgb(232, 232, 232)" rx="2" ry="2" />
+    <text alignment-baseline="central" x="4.0" y="12.0" font-size="12px" fill="rgb(0,0,0)">backward</text>
+</g></svg>
+</svg>

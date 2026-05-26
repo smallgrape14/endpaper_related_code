@@ -1,0 +1,66 @@
+NVME Identify Namespace 1:
+nsze    : 0x746cc000
+ncap    : 0x746cc000
+nuse    : 0x746cc000
+nsfeat  : 0x8
+  [4:4] : 0	NPWG, NPWA, NPDG, NPDA, and NOWS are Not Supported
+  [2:2] : 0	Deallocated or Unwritten Logical Block error Not Supported
+  [1:1] : 0	Namespace uses AWUN, AWUPF, and ACWU
+  [0:0] : 0	Thin Provisioning Not Supported
+
+nlbaf   : 0
+flbas   : 0
+  [4:4] : 0	Metadata Transferred in Separate Contiguous Buffer
+  [3:0] : 0	Current LBA Format Selected
+
+mc      : 0
+  [1:1] : 0	Metadata Pointer Not Supported
+  [0:0] : 0	Metadata as Part of Extended Data LBA Not Supported
+
+dpc     : 0
+  [4:4] : 0	Protection Information Transferred as Last 8 Bytes of Metadata Not Supported
+  [3:3] : 0	Protection Information Transferred as First 8 Bytes of Metadata Not Supported
+  [2:2] : 0	Protection Information Type 3 Not Supported
+  [1:1] : 0	Protection Information Type 2 Not Supported
+  [0:0] : 0	Protection Information Type 1 Not Supported
+
+dps     : 0
+  [3:3] : 0	Protection Information is Transferred as Last 8 Bytes of Metadata
+  [2:0] : 0	Protection Information Disabled
+
+nmic    : 0x1
+  [0:0] : 0x1	Namespace Multipath Capable
+
+rescap  : 0xff
+  [7:7] : 0x1	Reserved
+  [6:6] : 0x1	Exclusive Access - All Registrants Supported
+  [5:5] : 0x1	Write Exclusive - All Registrants Supported
+  [4:4] : 0x1	Exclusive Access - Registrants Only Supported
+  [3:3] : 0x1	Write Exclusive - Registrants Only Supported
+  [2:2] : 0x1	Exclusive Access Supported
+  [1:1] : 0x1	Write Exclusive Supported
+  [0:0] : 0x1	Persist Through Power Loss Supported
+
+fpi     : 0
+  [7:7] : 0	Format Progress Indicator Not Supported
+
+dlfeat  : 0
+  [4:4] : 0	Guard Field of Deallocated Logical Blocks is set to 0xFFFF
+  [3:3] : 0	Deallocate Bit in the Write Zeroes Command is Not Supported
+  [2:0] : 0	Bytes Read From a Deallocated Logical Block and its Metadata are Not Reported
+
+nawun   : 0
+nawupf  : 0
+nacwu   : 0
+nabsn   : 0
+nabo    : 0
+nabspf  : 0
+noiob   : 256
+nvmcap  : 0
+nsattr	: 0
+nvmsetid: 0
+anagrpid: 0
+endgid  : 0
+nguid   : 00000000000000000000000000000000
+eui64   : 0050431d0b000001
+LBA Format  0 : Metadata Size: 0   bytes - Data Size: 512 bytes - Relative Performance: 0 Best (in use)
